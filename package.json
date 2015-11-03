@@ -7,5 +7,8 @@
     "url": "git+https://github.com/mygento/sitespeed.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "sitespeed.io": "^3.11.1"
+  }
 }
