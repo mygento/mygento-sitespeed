@@ -21,4 +21,4 @@ before_install:
 
 
 script: 
-  - node ./bin/sitespeed.js --sites mygento.txt -n 1  -b firefox -n 1
+  - node ./node_modules/sitespeed.io/bin/sitespeed.js --sites mygento.txt -n 1  -b firefox -n 1
