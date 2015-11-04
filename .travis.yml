@@ -1,11 +1,8 @@
 language: node_js
-
 sudo: false
-
 cache:
   directories:
   - "$HOME/phantomjs"
-
 addons:
   apt:
     sources:
@@ -13,16 +10,14 @@ addons:
     packages:
     - google-chrome-stable
   firefox: latest
-
 before_install:
 - firefox --version 2>/dev/null
 - google-chrome --product-version
 - export DISPLAY=:99.0
 - sh -e /etc/init.d/xvfb start
-
 script: bash ./deploy.sh
-
 env:
   global:
   - GH_REF: github.com/mygento/sitespeed.git
   - secure: QR7SGPAiMHJc5Y6PlNlbUNlskOnuHdLCgb13dnQmaZAwtIww3D727TNaQMbuH3D/DtJa1QqsJ8DWwKPg9JCAFWiuzYihOj72+t7/smXIFt8BuS9fF7Jjz2hMs3g3bRaxGC4DF6lJZHZgfAMn0VCuJGELgTonkZ2qn67xTV5pgDSR243ZaVo5a1VJNUb38OCnI3FZ+VWoKpKf/e0VGnudasqlKPz9Avuk76o9DkWQuYlKlkpHqndkljsbpll1cyzvscvnQ0MZs4pUyftB8yB/cJZ/fgLIVByWWq4tKaN1AXzgcNBhpr6g6VKYLAXntMO269ws9LAXVq6Kk/1WFRodJrlxFExg5k9Ev0hNSyxBeDQRr9LzZHYioYMjnvA3J8NMrnZ5pcdoD8kPlR/D/Y6vIw/qUcNKShKcC1M04k337Yp77KS8V09XaFVOB7ViAOBBqEm0TlmqtbhnawGf9SPU53KSzvqcOmuVj5nuLQhJUvJpIPUSabcM6c7eOKBJB6bPwp2td3krtOud9Ua5+vF9ZAE6fILKuinx/3Vf3cgjC1CtcKfAB0ejbDCU61rf1XqF9BoFcj4tJO+UpfR3st5oHrDCYFYaImRPAfnsDDsjuNn13ja0wg84Bol+pCuye7VUNAGx4KK5B+O9bdHJ/QrVwA0fpZp0ERtcVR8TUVY8QmE=
+  - secure: ccO32vxy25ySFMUNT+UFBUVnYCszlVPkvrnszmBmxsvuEgM30M2WuAMLJfxAcjVE+jAUZosD2wB2uxj6xnZZShFR1mdJPB+TaD4HRxkN4iir7dbQtnpcql/LrEBAndazXOoQ3nHpyP9spFdVGDNwiItwGRIR2ZSeXhHAbh7P59Ye2YjGHhf7gRdhHXwXYOwSyDc1UFaSvk+90JQzDApCKiKALOXW9m2hjGf8uSZ0HYglDXKxfAvMiNrqfBWbvOeFQ0frf4hfpuJhG8nkdsL9KND1bEZAiH14alvF5IHehrEkxrrA+Gy9S4r77vAHTKOK60ksCbYc+929mxcXf+s/tAlhH6NAgnseiMI80ai00MfYTqAN4MxmucKhbyUoKfm8KS1BIc0vnN+9x4SgtVbUQ1sXx7KtrWcGeQlblYCGqKO9bOxPs0vS6PpFcrMK2lPRdnApC4mDDHBO5h1wBZiEMcn9I0qnzxig1NgaoWhORYV7EnGUgda+xC5nWvuGSITLEk05bOV5kpYsRf00VSbnkWTIkwm8788kGPikGZLg38o0VVjAwFAtQ6G/NUtmi7uYTxrqt5Q8psaBkoywRQyhbtqyMuTEfYkapcMfWKK4H5aQOU0y3bGkIKCLXD+1Bvoep6jpQL0Dxk1xWlcoSTrNHXH1tQRif5p8vYrSXRMVEAQ=

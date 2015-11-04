@@ -9,6 +9,7 @@ rm -rf sitespeed-result || exit 0;
 
 # go to the out directory and create a *new* Git repo
 cd sitespeed-result/sites/out
+mv sites.html index.html
 git init
 
 # inside this git repo we'll pretend to be a new user
