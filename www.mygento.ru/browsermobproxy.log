@@ -1,0 +1,1517 @@
+2016-01-19T07:58:50.726Z - info: stdout:Unable to find conf/bmp-logging.properties. Using default logging configuration.
+
+2016-01-19T07:58:51.353Z - error: stderr:INFO 01/19 07:58:51 n.l.b.p.Main         - Starting BrowserMob Proxy version 2.0.0
+
+2016-01-19T07:58:51.396Z - error: stderr:INFO 01/19 07:58:51 o.e.j.u.log          - jetty-2.0.0
+
+2016-01-19T07:58:51.461Z - error: stderr:INFO 01/19 07:58:51 o.e.j.u.log          - started o.e.j.s.ServletContextHandler{/,null}
+
+2016-01-19T07:58:52.662Z - error: stderr:INFO 01/19 07:58:52 o.e.j.u.log          - Started SelectChannelConnector@0.0.0.0:2001
+
+2016-01-19T07:58:53.260Z - error: stderr:INFO 01/19 07:58:53 n.l.b.p.j.h.HttpSer~ - Version Jetty/2.0.0
+
+2016-01-19T07:58:53.262Z - error: stderr:INFO 01/19 07:58:53 n.l.b.p.j.u.Contain~ - Started HttpContext[/,/]
+
+2016-01-19T07:58:53.264Z - error: stderr:INFO 01/19 07:58:53 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:2000
+
+2016-01-19T07:58:53.264Z - error: stderr:INFO 01/19 07:58:53 n.l.b.p.j.u.Contain~ - Started net.lightbody.bmp.proxy.jetty.jetty.Server@19d9ba9
+
+2016-01-19T07:58:57.723Z - error: stderr:INFO 01/19 07:58:57 n.l.b.p.j.u.Credent~ - Checking Resource aliases
+
+2016-01-19T07:58:59.164Z - error: stderr:INFO 01/19 07:58:59 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:38283
+
+2016-01-19T07:59:00.800Z - error: stderr:INFO 01/19 07:59:00 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:41089
+
+2016-01-19T07:59:01.849Z - error: stderr:INFO 01/19 07:59:01 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:52136
+
+2016-01-19T07:59:02.488Z - error: stderr:INFO 01/19 07:59:02 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:50488
+
+2016-01-19T07:59:04.330Z - error: stderr:INFO 01/19 07:59:04 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=50488]]
+
+2016-01-19T07:59:04.431Z - error: stderr:INFO 01/19 07:59:04 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:50488
+INFO 01/19 07:59:04 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=38283]]
+
+2016-01-19T07:59:04.532Z - error: stderr:INFO 01/19 07:59:04 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:38283
+
+2016-01-19T07:59:04.532Z - error: stderr:INFO 01/19 07:59:04 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=52136]]
+
+2016-01-19T07:59:04.633Z - error: stderr:INFO 01/19 07:59:04 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:52136
+INFO 01/19 07:59:04 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=41089]]
+
+2016-01-19T07:59:04.736Z - error: stderr:INFO 01/19 07:59:04 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:41089
+
+2016-01-19T07:59:04.736Z - error: stderr:INFO 01/19 07:59:04 n.l.b.p.j.u.Threade~ - Stopping Acceptor ServerSocket[addr=/0.0.0.0,localport=2000]
+
+2016-01-19T07:59:04.837Z - error: stderr:INFO 01/19 07:59:04 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:2000
+
+2016-01-19T07:59:05.180Z - error: stderr:INFO 01/19 07:59:05 n.l.b.p.j.u.Contain~ - Stopped HttpContext[/,/]
+INFO 01/19 07:59:05 n.l.b.p.j.u.Contain~ - Stopped net.lightbody.bmp.proxy.jetty.jetty.Server@19d9ba9
+
+2016-01-19T07:59:05.195Z - error: stderr:INFO 01/19 07:59:05 n.l.b.p.j.h.HttpSer~ - Version Jetty/2.0.0
+INFO 01/19 07:59:05 n.l.b.p.j.u.Contain~ - Started HttpContext[/,/]
+
+2016-01-19T07:59:05.196Z - error: stderr:INFO 01/19 07:59:05 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:2000
+INFO 01/19 07:59:05 n.l.b.p.j.u.Contain~ - Started net.lightbody.bmp.proxy.jetty.jetty.Server@1c20faf8
+
+2016-01-19T07:59:07.395Z - error: stderr:INFO 01/19 07:59:07 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:38611
+
+2016-01-19T07:59:08.943Z - error: stderr:INFO 01/19 07:59:08 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:53335
+
+2016-01-19T07:59:11.970Z - error: stderr:INFO 01/19 07:59:11 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:37556
+
+2016-01-19T07:59:12.426Z - error: stderr:INFO 01/19 07:59:12 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=38611]]
+
+2016-01-19T07:59:12.526Z - error: stderr:INFO 01/19 07:59:12 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:38611
+
+2016-01-19T07:59:12.526Z - error: stderr:INFO 01/19 07:59:12 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=53335]]
+
+2016-01-19T07:59:12.628Z - error: stderr:INFO 01/19 07:59:12 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:53335
+INFO 01/19 07:59:12 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=37556]]
+
+2016-01-19T07:59:12.731Z - error: stderr:INFO 01/19 07:59:12 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:37556
+INFO 01/19 07:59:12 n.l.b.p.j.u.Threade~ - Stopping Acceptor ServerSocket[addr=/0.0.0.0,localport=2000]
+
+2016-01-19T07:59:12.976Z - error: stderr:INFO 01/19 07:59:12 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:2000
+
+2016-01-19T07:59:13.157Z - error: stderr:INFO 01/19 07:59:13 n.l.b.p.j.u.Contain~ - Stopped HttpContext[/,/]
+INFO 01/19 07:59:13 n.l.b.p.j.u.Contain~ - Stopped net.lightbody.bmp.proxy.jetty.jetty.Server@1c20faf8
+
+2016-01-19T07:59:13.172Z - error: stderr:INFO 01/19 07:59:13 n.l.b.p.j.h.HttpSer~ - Version Jetty/2.0.0
+INFO 01/19 07:59:13 n.l.b.p.j.u.Contain~ - Started HttpContext[/,/]
+
+2016-01-19T07:59:13.173Z - error: stderr:INFO 01/19 07:59:13 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:2000
+INFO 01/19 07:59:13 n.l.b.p.j.u.Contain~ - Started net.lightbody.bmp.proxy.jetty.jetty.Server@3d5c9d75
+
+2016-01-19T07:59:14.939Z - error: stderr:INFO 01/19 07:59:14 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:34099
+
+2016-01-19T07:59:15.180Z - error: stderr:INFO 01/19 07:59:15 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:59242
+
+2016-01-19T07:59:15.326Z - error: stderr:INFO 01/19 07:59:15 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:37466
+
+2016-01-19T07:59:18.172Z - error: stderr:INFO 01/19 07:59:18 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:43117
+
+2016-01-19T07:59:19.685Z - error: stderr:INFO 01/19 07:59:19 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:36368
+
+2016-01-19T07:59:21.017Z - error: stderr:INFO 01/19 07:59:21 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:43535
+
+2016-01-19T07:59:23.982Z - error: stderr:INFO 01/19 07:59:23 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=43117]]
+
+2016-01-19T07:59:24.084Z - error: stderr:INFO 01/19 07:59:24 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:43117
+INFO 01/19 07:59:24 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=59242]]
+
+2016-01-19T07:59:24.185Z - error: stderr:INFO 01/19 07:59:24 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:59242
+
+2016-01-19T07:59:24.185Z - error: stderr:INFO 01/19 07:59:24 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=43535]]
+
+2016-01-19T07:59:24.287Z - error: stderr:INFO 01/19 07:59:24 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:43535
+
+2016-01-19T07:59:24.287Z - error: stderr:INFO 01/19 07:59:24 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=37466]]
+
+2016-01-19T07:59:24.388Z - error: stderr:INFO 01/19 07:59:24 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:37466
+
+2016-01-19T07:59:24.389Z - error: stderr:INFO 01/19 07:59:24 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=34099]]
+
+2016-01-19T07:59:24.490Z - error: stderr:INFO 01/19 07:59:24 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:34099
+
+2016-01-19T07:59:24.490Z - error: stderr:INFO 01/19 07:59:24 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=36368]]
+
+2016-01-19T07:59:24.591Z - error: stderr:INFO 01/19 07:59:24 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:36368
+
+2016-01-19T07:59:24.597Z - error: stderr:INFO 01/19 07:59:24 n.l.b.p.j.u.Threade~ - Stopping Acceptor ServerSocket[addr=/0.0.0.0,localport=2000]
+
+2016-01-19T07:59:24.701Z - error: stderr:INFO 01/19 07:59:24 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:2000
+
+2016-01-19T07:59:24.901Z - error: stderr:INFO 01/19 07:59:24 n.l.b.p.j.u.Contain~ - Stopped HttpContext[/,/]
+INFO 01/19 07:59:24 n.l.b.p.j.u.Contain~ - Stopped net.lightbody.bmp.proxy.jetty.jetty.Server@3d5c9d75
+
+2016-01-19T07:59:24.918Z - error: stderr:INFO 01/19 07:59:24 n.l.b.p.j.h.HttpSer~ - Version Jetty/2.0.0
+INFO 01/19 07:59:24 n.l.b.p.j.u.Contain~ - Started HttpContext[/,/]
+
+2016-01-19T07:59:24.918Z - error: stderr:INFO 01/19 07:59:24 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:2000
+INFO 01/19 07:59:24 n.l.b.p.j.u.Contain~ - Started net.lightbody.bmp.proxy.jetty.jetty.Server@833849a
+
+2016-01-19T07:59:27.004Z - error: stderr:INFO 01/19 07:59:27 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:60977
+
+2016-01-19T07:59:28.043Z - error: stderr:WARN 01/19 07:59:28 n.l.b.p.BrowserMobP~ - IOException while trying to report an HTTP error
+java.io.IOException: closed
+	at net.lightbody.bmp.proxy.jetty.http.HttpOutputStream.prepareOutput(HttpOutputStream.java:444)
+	at net.lightbody.bmp.proxy.jetty.http.HttpOutputStream.write(HttpOutputStream.java:413)
+	at net.lightbody.bmp.proxy.jetty.http.HttpOutputStream.write(HttpOutputStream.java:406)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler.reportError(BrowserMobProxyHandler.java:312)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler.access$200(BrowserMobProxyHandler.java:26)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler$1.reportError(BrowserMobProxyHandler.java:265)
+	at net.lightbody.bmp.proxy.http.BrowserMobHttpClient.execute(BrowserMobHttpClient.java:832)
+	at net.lightbody.bmp.proxy.http.BrowserMobHttpClient.execute(BrowserMobHttpClient.java:591)
+	at net.lightbody.bmp.proxy.http.BrowserMobHttpRequest.execute(BrowserMobHttpRequest.java:149)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler.proxyPlainTextRequest(BrowserMobProxyHandler.java:269)
+	at net.lightbody.bmp.proxy.selenium.SeleniumProxyHandler.handle(SeleniumProxyHandler.java:185)
+	at net.lightbody.bmp.proxy.jetty.http.HttpContext.handle(HttpContext.java:1509)
+	at net.lightbody.bmp.proxy.jetty.http.HttpContext.handle(HttpContext.java:1461)
+	at net.lightbody.bmp.proxy.jetty.http.HttpServer.service(HttpServer.java:892)
+	at net.lightbody.bmp.proxy.jetty.http.HttpConnection.service(HttpConnection.java:815)
+	at net.lightbody.bmp.proxy.jetty.http.HttpConnection.handleNext(HttpConnection.java:981)
+	at net.lightbody.bmp.proxy.jetty.http.HttpConnection.handle(HttpConnection.java:832)
+	at net.lightbody.bmp.proxy.jetty.http.SocketListener.handleConnection(SocketListener.java:245)
+	at net.lightbody.bmp.proxy.jetty.util.ThreadedServer.handle(ThreadedServer.java:357)
+	at net.lightbody.bmp.proxy.jetty.util.ThreadPool$PoolThread.run(ThreadPool.java:534)
+INFO 01/19 07:59:28 n.l.b.p.h.BrowserMo~ - EOFException(java.net.SocketException: Broken pipe) when requesting https://www.mozilla.org/media/img/firefox/favicon.dc6635050bf5.ico
+WARN 01/19 07:59:28 n.l.b.p.j.h.HttpCon~ - Invalid length: Content-Length=8318 written=7709 for https://www.mozilla.org/media/img/firefox/favicon.dc6635050bf5.ico
+
+2016-01-19T07:59:28.286Z - error: stderr:INFO 01/19 07:59:28 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:54019
+
+2016-01-19T07:59:31.550Z - error: stderr:INFO 01/19 07:59:31 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=60977]]
+
+2016-01-19T07:59:31.650Z - error: stderr:INFO 01/19 07:59:31 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:60977
+
+2016-01-19T07:59:31.651Z - error: stderr:INFO 01/19 07:59:31 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=54019]]
+
+2016-01-19T07:59:31.751Z - error: stderr:INFO 01/19 07:59:31 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:54019
+
+2016-01-19T07:59:31.753Z - error: stderr:INFO 01/19 07:59:31 n.l.b.p.j.u.Threade~ - Stopping Acceptor ServerSocket[addr=/0.0.0.0,localport=2000]
+
+2016-01-19T07:59:31.858Z - error: stderr:INFO 01/19 07:59:31 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:2000
+
+2016-01-19T07:59:32.049Z - error: stderr:INFO 01/19 07:59:32 n.l.b.p.j.u.Contain~ - Stopped HttpContext[/,/]
+
+2016-01-19T07:59:32.049Z - error: stderr:INFO 01/19 07:59:32 n.l.b.p.j.u.Contain~ - Stopped net.lightbody.bmp.proxy.jetty.jetty.Server@833849a
+
+2016-01-19T07:59:32.060Z - error: stderr:INFO 01/19 07:59:32 n.l.b.p.j.h.HttpSer~ - Version Jetty/2.0.0
+INFO 01/19 07:59:32 n.l.b.p.j.u.Contain~ - Started HttpContext[/,/]
+
+2016-01-19T07:59:32.062Z - error: stderr:INFO 01/19 07:59:32 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:2000
+INFO 01/19 07:59:32 n.l.b.p.j.u.Contain~ - Started net.lightbody.bmp.proxy.jetty.jetty.Server@45a6591e
+
+2016-01-19T07:59:34.274Z - error: stderr:INFO 01/19 07:59:34 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:41372
+
+2016-01-19T07:59:35.354Z - error: stderr:INFO 01/19 07:59:35 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:34197
+
+2016-01-19T07:59:38.658Z - error: stderr:INFO 01/19 07:59:38 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=34197]]
+
+2016-01-19T07:59:38.759Z - error: stderr:INFO 01/19 07:59:38 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:34197
+
+2016-01-19T07:59:38.759Z - error: stderr:INFO 01/19 07:59:38 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=41372]]
+
+2016-01-19T07:59:38.867Z - error: stderr:INFO 01/19 07:59:38 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:41372
+INFO 01/19 07:59:38 n.l.b.p.j.u.Threade~ - Stopping Acceptor ServerSocket[addr=/0.0.0.0,localport=2000]
+
+2016-01-19T07:59:38.965Z - error: stderr:INFO 01/19 07:59:38 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:2000
+
+2016-01-19T07:59:39.101Z - error: stderr:INFO 01/19 07:59:39 n.l.b.p.j.u.Contain~ - Stopped HttpContext[/,/]
+
+2016-01-19T07:59:39.102Z - error: stderr:INFO 01/19 07:59:39 n.l.b.p.j.u.Contain~ - Stopped net.lightbody.bmp.proxy.jetty.jetty.Server@45a6591e
+
+2016-01-19T07:59:39.113Z - error: stderr:INFO 01/19 07:59:39 n.l.b.p.j.h.HttpSer~ - Version Jetty/2.0.0
+INFO 01/19 07:59:39 n.l.b.p.j.u.Contain~ - Started HttpContext[/,/]
+
+2016-01-19T07:59:39.114Z - error: stderr:INFO 01/19 07:59:39 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:2000
+INFO 01/19 07:59:39 n.l.b.p.j.u.Contain~ - Started net.lightbody.bmp.proxy.jetty.jetty.Server@20fe814a
+
+2016-01-19T07:59:40.990Z - error: stderr:INFO 01/19 07:59:40 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:43533
+
+2016-01-19T07:59:41.261Z - error: stderr:INFO 01/19 07:59:41 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:41021
+
+2016-01-19T07:59:41.390Z - error: stderr:INFO 01/19 07:59:41 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:34782
+
+2016-01-19T07:59:42.588Z - error: stderr:INFO 01/19 07:59:42 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:46576
+
+2016-01-19T07:59:45.777Z - error: stderr:INFO 01/19 07:59:45 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:50808
+
+2016-01-19T07:59:46.212Z - error: stderr:INFO 01/19 07:59:46 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=34782]]
+
+2016-01-19T07:59:46.313Z - error: stderr:INFO 01/19 07:59:46 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:34782
+INFO 01/19 07:59:46 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=41021]]
+
+2016-01-19T07:59:46.415Z - error: stderr:INFO 01/19 07:59:46 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:41021
+INFO 01/19 07:59:46 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=50808]]
+
+2016-01-19T07:59:46.516Z - error: stderr:INFO 01/19 07:59:46 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:50808
+INFO 01/19 07:59:46 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=46576]]
+
+2016-01-19T07:59:46.617Z - error: stderr:INFO 01/19 07:59:46 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:46576
+
+2016-01-19T07:59:46.617Z - error: stderr:INFO 01/19 07:59:46 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=43533]]
+
+2016-01-19T07:59:46.719Z - error: stderr:INFO 01/19 07:59:46 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:43533
+
+2016-01-19T07:59:46.719Z - error: stderr:INFO 01/19 07:59:46 n.l.b.p.j.u.Threade~ - Stopping Acceptor ServerSocket[addr=/0.0.0.0,localport=2000]
+
+2016-01-19T07:59:46.820Z - error: stderr:INFO 01/19 07:59:46 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:2000
+
+2016-01-19T07:59:47.112Z - error: stderr:INFO 01/19 07:59:47 n.l.b.p.j.u.Contain~ - Stopped HttpContext[/,/]
+INFO 01/19 07:59:47 n.l.b.p.j.u.Contain~ - Stopped net.lightbody.bmp.proxy.jetty.jetty.Server@20fe814a
+
+2016-01-19T07:59:47.116Z - info: Stopped proxy process.
+2016-01-19T08:02:36.586Z - info: stdout:Unable to find conf/bmp-logging.properties. Using default logging configuration.
+2016-01-19T08:02:36.586Z - info: stdout:
+
+2016-01-19T08:02:37.086Z - error: stderr:INFO 01/19 08:02:37 n.l.b.p.Main         - Starting BrowserMob Proxy version 2.0.0
+
+2016-01-19T08:02:37.125Z - error: stderr:INFO 01/19 08:02:37 o.e.j.u.log          - jetty-2.0.0
+
+2016-01-19T08:02:37.160Z - error: stderr:INFO 01/19 08:02:37 o.e.j.u.log          - started o.e.j.s.ServletContextHandler{/,null}
+
+2016-01-19T08:02:38.025Z - error: stderr:INFO 01/19 08:02:38 o.e.j.u.log          - Started SelectChannelConnector@0.0.0.0:2001
+
+2016-01-19T08:02:38.585Z - error: stderr:INFO 01/19 08:02:38 n.l.b.p.j.h.HttpSer~ - Version Jetty/2.0.0
+
+2016-01-19T08:02:38.587Z - error: stderr:INFO 01/19 08:02:38 n.l.b.p.j.u.Contain~ - Started HttpContext[/,/]
+
+2016-01-19T08:02:38.609Z - error: stderr:INFO 01/19 08:02:38 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:2000
+
+2016-01-19T08:02:38.609Z - error: stderr:INFO 01/19 08:02:38 n.l.b.p.j.u.Contain~ - Started net.lightbody.bmp.proxy.jetty.jetty.Server@65332857
+
+2016-01-19T08:02:41.906Z - error: stderr:INFO 01/19 08:02:41 n.l.b.p.j.u.Credent~ - Checking Resource aliases
+
+2016-01-19T08:02:43.093Z - error: stderr:INFO 01/19 08:02:43 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:60016
+
+2016-01-19T08:02:43.384Z - error: stderr:INFO 01/19 08:02:43 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:44987
+
+2016-01-19T08:02:46.254Z - error: stderr:INFO 01/19 08:02:46 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:51042
+
+2016-01-19T08:02:46.843Z - error: stderr:INFO 01/19 08:02:46 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:52996
+
+2016-01-19T08:02:47.268Z - error: stderr:INFO 01/19 08:02:47 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:50606
+
+2016-01-19T08:02:59.407Z - error: stderr:INFO 01/19 08:02:59 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:44938
+
+2016-01-19T08:03:00.234Z - error: stderr:INFO 01/19 08:03:00 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:57649
+
+2016-01-19T08:03:00.579Z - error: stderr:INFO 01/19 08:03:00 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:58733
+
+2016-01-19T08:03:01.211Z - error: stderr:INFO 01/19 08:03:01 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:38321
+
+2016-01-19T08:03:04.115Z - error: stderr:INFO 01/19 08:03:04 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=57649]]
+
+2016-01-19T08:03:04.216Z - error: stderr:INFO 01/19 08:03:04 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:57649
+
+2016-01-19T08:03:04.216Z - error: stderr:INFO 01/19 08:03:04 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=51042]]
+
+2016-01-19T08:03:04.321Z - error: stderr:INFO 01/19 08:03:04 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:51042
+
+2016-01-19T08:03:04.321Z - error: stderr:INFO 01/19 08:03:04 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=58733]]
+
+2016-01-19T08:03:04.421Z - error: stderr:INFO 01/19 08:03:04 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:58733
+
+2016-01-19T08:03:04.421Z - error: stderr:INFO 01/19 08:03:04 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=50606]]
+
+2016-01-19T08:03:04.523Z - error: stderr:INFO 01/19 08:03:04 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:50606
+
+2016-01-19T08:03:04.523Z - error: stderr:INFO 01/19 08:03:04 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=52996]]
+
+2016-01-19T08:03:04.624Z - error: stderr:INFO 01/19 08:03:04 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:52996
+
+2016-01-19T08:03:04.625Z - error: stderr:INFO 01/19 08:03:04 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=38321]]
+
+2016-01-19T08:03:04.725Z - error: stderr:INFO 01/19 08:03:04 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:38321
+
+2016-01-19T08:03:04.726Z - error: stderr:INFO 01/19 08:03:04 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=44987]]
+
+2016-01-19T08:03:04.828Z - error: stderr:INFO 01/19 08:03:04 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:44987
+INFO 01/19 08:03:04 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=44938]]
+
+2016-01-19T08:03:04.929Z - error: stderr:INFO 01/19 08:03:04 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:44938
+INFO 01/19 08:03:04 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=60016]]
+
+2016-01-19T08:03:05.036Z - error: stderr:INFO 01/19 08:03:05 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:60016
+
+2016-01-19T08:03:05.036Z - error: stderr:INFO 01/19 08:03:05 n.l.b.p.j.u.Threade~ - Stopping Acceptor ServerSocket[addr=/0.0.0.0,localport=2000]
+
+2016-01-19T08:03:05.139Z - error: stderr:INFO 01/19 08:03:05 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:2000
+
+2016-01-19T08:03:05.486Z - error: stderr:INFO 01/19 08:03:05 n.l.b.p.j.u.Contain~ - Stopped HttpContext[/,/]
+
+2016-01-19T08:03:05.486Z - error: stderr:INFO 01/19 08:03:05 n.l.b.p.j.u.Contain~ - Stopped net.lightbody.bmp.proxy.jetty.jetty.Server@65332857
+
+2016-01-19T08:03:05.501Z - error: stderr:INFO 01/19 08:03:05 n.l.b.p.j.h.HttpSer~ - Version Jetty/2.0.0
+INFO 01/19 08:03:05 n.l.b.p.j.u.Contain~ - Started HttpContext[/,/]
+
+2016-01-19T08:03:05.502Z - error: stderr:INFO 01/19 08:03:05 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:2000
+INFO 01/19 08:03:05 n.l.b.p.j.u.Contain~ - Started net.lightbody.bmp.proxy.jetty.jetty.Server@66cbe14a
+
+2016-01-19T08:03:07.205Z - error: stderr:INFO 01/19 08:03:07 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:36689
+
+2016-01-19T08:03:07.399Z - error: stderr:INFO 01/19 08:03:07 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:55921
+
+2016-01-19T08:03:07.534Z - error: stderr:INFO 01/19 08:03:07 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:52311
+
+2016-01-19T08:03:08.067Z - error: stderr:INFO 01/19 08:03:08 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:33892
+
+2016-01-19T08:03:08.340Z - error: stderr:INFO 01/19 08:03:08 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:55269
+
+2016-01-19T08:03:23.039Z - error: stderr:INFO 01/19 08:03:23 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:38284
+
+2016-01-19T08:03:23.175Z - error: stderr:INFO 01/19 08:03:23 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:44036
+
+2016-01-19T08:03:23.322Z - error: stderr:INFO 01/19 08:03:23 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:45330
+
+2016-01-19T08:03:23.548Z - error: stderr:INFO 01/19 08:03:23 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:60113
+
+2016-01-19T08:03:23.711Z - error: stderr:INFO 01/19 08:03:23 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:58317
+
+2016-01-19T08:03:24.903Z - error: stderr:INFO 01/19 08:03:24 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:36831
+
+2016-01-19T08:03:27.673Z - error: stderr:INFO 01/19 08:03:27 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=33892]]
+
+2016-01-19T08:03:27.774Z - error: stderr:INFO 01/19 08:03:27 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:33892
+
+2016-01-19T08:03:27.774Z - error: stderr:INFO 01/19 08:03:27 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=55921]]
+
+2016-01-19T08:03:27.875Z - error: stderr:INFO 01/19 08:03:27 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:55921
+
+2016-01-19T08:03:27.875Z - error: stderr:INFO 01/19 08:03:27 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=44036]]
+
+2016-01-19T08:03:27.976Z - error: stderr:INFO 01/19 08:03:27 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:44036
+
+2016-01-19T08:03:27.977Z - error: stderr:INFO 01/19 08:03:27 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=45330]]
+
+2016-01-19T08:03:28.078Z - error: stderr:INFO 01/19 08:03:28 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:45330
+
+2016-01-19T08:03:28.078Z - error: stderr:INFO 01/19 08:03:28 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=55269]]
+
+2016-01-19T08:03:28.179Z - error: stderr:INFO 01/19 08:03:28 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:55269
+
+2016-01-19T08:03:28.179Z - error: stderr:INFO 01/19 08:03:28 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=60113]]
+
+2016-01-19T08:03:28.280Z - error: stderr:INFO 01/19 08:03:28 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:60113
+
+2016-01-19T08:03:28.281Z - error: stderr:INFO 01/19 08:03:28 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=36689]]
+
+2016-01-19T08:03:28.381Z - error: stderr:INFO 01/19 08:03:28 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:36689
+
+2016-01-19T08:03:28.382Z - error: stderr:INFO 01/19 08:03:28 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=36831]]
+
+2016-01-19T08:03:28.484Z - error: stderr:INFO 01/19 08:03:28 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:36831
+INFO 01/19 08:03:28 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=38284]]
+
+2016-01-19T08:03:28.586Z - error: stderr:INFO 01/19 08:03:28 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:38284
+INFO 01/19 08:03:28 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=58317]]
+
+2016-01-19T08:03:28.687Z - error: stderr:INFO 01/19 08:03:28 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:58317
+INFO 01/19 08:03:28 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=52311]]
+
+2016-01-19T08:03:28.795Z - error: stderr:INFO 01/19 08:03:28 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:52311
+
+2016-01-19T08:03:28.798Z - error: stderr:INFO 01/19 08:03:28 n.l.b.p.j.u.Threade~ - Stopping Acceptor ServerSocket[addr=/0.0.0.0,localport=2000]
+
+2016-01-19T08:03:28.919Z - error: stderr:INFO 01/19 08:03:28 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:2000
+
+2016-01-19T08:03:29.101Z - error: stderr:INFO 01/19 08:03:29 n.l.b.p.j.u.Contain~ - Stopped HttpContext[/,/]
+
+2016-01-19T08:03:29.102Z - error: stderr:INFO 01/19 08:03:29 n.l.b.p.j.u.Contain~ - Stopped net.lightbody.bmp.proxy.jetty.jetty.Server@66cbe14a
+
+2016-01-19T08:03:29.114Z - error: stderr:INFO 01/19 08:03:29 n.l.b.p.j.h.HttpSer~ - Version Jetty/2.0.0
+
+2016-01-19T08:03:29.114Z - error: stderr:INFO 01/19 08:03:29 n.l.b.p.j.u.Contain~ - Started HttpContext[/,/]
+
+2016-01-19T08:03:29.117Z - error: stderr:INFO 01/19 08:03:29 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:2000
+INFO 01/19 08:03:29 n.l.b.p.j.u.Contain~ - Started net.lightbody.bmp.proxy.jetty.jetty.Server@6cc48749
+
+2016-01-19T08:03:31.005Z - error: stderr:INFO 01/19 08:03:31 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:46256
+
+2016-01-19T08:03:43.664Z - error: stderr:INFO 01/19 08:03:43 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:47338
+
+2016-01-19T08:03:43.771Z - error: stderr:INFO 01/19 08:03:43 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:57460
+
+2016-01-19T08:03:43.896Z - error: stderr:INFO 01/19 08:03:43 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:59228
+
+2016-01-19T08:03:44.052Z - error: stderr:INFO 01/19 08:03:44 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:40451
+
+2016-01-19T08:03:44.173Z - error: stderr:INFO 01/19 08:03:44 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:35580
+
+2016-01-19T08:03:45.310Z - error: stderr:INFO 01/19 08:03:45 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:53878
+
+2016-01-19T08:03:48.375Z - error: stderr:INFO 01/19 08:03:48 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=46256]]
+
+2016-01-19T08:03:48.476Z - error: stderr:INFO 01/19 08:03:48 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:46256
+
+2016-01-19T08:03:48.476Z - error: stderr:INFO 01/19 08:03:48 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=47338]]
+
+2016-01-19T08:03:48.577Z - error: stderr:INFO 01/19 08:03:48 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:47338
+
+2016-01-19T08:03:48.578Z - error: stderr:INFO 01/19 08:03:48 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=40451]]
+
+2016-01-19T08:03:48.678Z - error: stderr:INFO 01/19 08:03:48 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:40451
+
+2016-01-19T08:03:48.678Z - error: stderr:INFO 01/19 08:03:48 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=57460]]
+
+2016-01-19T08:03:48.780Z - error: stderr:INFO 01/19 08:03:48 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:57460
+INFO 01/19 08:03:48 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=53878]]
+
+2016-01-19T08:03:48.881Z - error: stderr:INFO 01/19 08:03:48 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:53878
+
+2016-01-19T08:03:48.881Z - error: stderr:INFO 01/19 08:03:48 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=59228]]
+
+2016-01-19T08:03:48.981Z - error: stderr:INFO 01/19 08:03:48 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:59228
+
+2016-01-19T08:03:48.982Z - error: stderr:INFO 01/19 08:03:48 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=35580]]
+
+2016-01-19T08:03:49.085Z - error: stderr:INFO 01/19 08:03:49 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:35580
+
+2016-01-19T08:03:49.085Z - error: stderr:INFO 01/19 08:03:49 n.l.b.p.j.u.Threade~ - Stopping Acceptor ServerSocket[addr=/0.0.0.0,localport=2000]
+
+2016-01-19T08:03:49.187Z - error: stderr:INFO 01/19 08:03:49 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:2000
+
+2016-01-19T08:03:49.406Z - error: stderr:INFO 01/19 08:03:49 n.l.b.p.j.u.Contain~ - Stopped HttpContext[/,/]
+INFO 01/19 08:03:49 n.l.b.p.j.u.Contain~ - Stopped net.lightbody.bmp.proxy.jetty.jetty.Server@6cc48749
+
+2016-01-19T08:03:49.424Z - error: stderr:INFO 01/19 08:03:49 n.l.b.p.j.h.HttpSer~ - Version Jetty/2.0.0
+
+2016-01-19T08:03:49.424Z - error: stderr:INFO 01/19 08:03:49 n.l.b.p.j.u.Contain~ - Started HttpContext[/,/]
+INFO 01/19 08:03:49 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:2000
+
+2016-01-19T08:03:49.424Z - error: stderr:INFO 01/19 08:03:49 n.l.b.p.j.u.Contain~ - Started net.lightbody.bmp.proxy.jetty.jetty.Server@65f4b652
+
+2016-01-19T08:03:51.155Z - error: stderr:INFO 01/19 08:03:51 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:54830
+
+2016-01-19T08:03:51.351Z - error: stderr:INFO 01/19 08:03:51 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:43191
+
+2016-01-19T08:03:51.449Z - error: stderr:INFO 01/19 08:03:51 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:54022
+
+2016-01-19T08:03:51.773Z - error: stderr:INFO 01/19 08:03:51 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:34378
+
+2016-01-19T08:03:51.859Z - error: stderr:INFO 01/19 08:03:51 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:33498
+
+2016-01-19T08:03:52.398Z - error: stderr:INFO 01/19 08:03:52 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:40968
+
+2016-01-19T08:03:52.648Z - error: stderr:INFO 01/19 08:03:52 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:53567
+
+2016-01-19T08:03:52.800Z - error: stderr:INFO 01/19 08:03:52 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:44967
+
+2016-01-19T08:03:55.954Z - error: stderr:INFO 01/19 08:03:55 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:47269
+
+2016-01-19T08:03:56.819Z - error: stderr:INFO 01/19 08:03:56 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:49760
+
+2016-01-19T08:04:07.844Z - error: stderr:INFO 01/19 08:04:07 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:34843
+
+2016-01-19T08:04:09.636Z - error: stderr:INFO 01/19 08:04:09 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:58929
+
+2016-01-19T08:04:12.532Z - error: stderr:INFO 01/19 08:04:12 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=44967]]
+
+2016-01-19T08:04:12.633Z - error: stderr:INFO 01/19 08:04:12 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:44967
+INFO 01/19 08:04:12 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=34378]]
+
+2016-01-19T08:04:12.734Z - error: stderr:INFO 01/19 08:04:12 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:34378
+INFO 01/19 08:04:12 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=40968]]
+
+2016-01-19T08:04:12.835Z - error: stderr:INFO 01/19 08:04:12 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:40968
+INFO 01/19 08:04:12 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=47269]]
+
+2016-01-19T08:04:12.936Z - error: stderr:INFO 01/19 08:04:12 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:47269
+INFO 01/19 08:04:12 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=43191]]
+
+2016-01-19T08:04:13.038Z - error: stderr:INFO 01/19 08:04:13 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:43191
+INFO 01/19 08:04:13 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=33498]]
+
+2016-01-19T08:04:13.139Z - error: stderr:INFO 01/19 08:04:13 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:33498
+INFO 01/19 08:04:13 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=54022]]
+
+2016-01-19T08:04:13.240Z - error: stderr:INFO 01/19 08:04:13 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:54022
+INFO 01/19 08:04:13 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=58929]]
+
+2016-01-19T08:04:13.341Z - error: stderr:INFO 01/19 08:04:13 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:58929
+
+2016-01-19T08:04:13.341Z - error: stderr:INFO 01/19 08:04:13 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=34843]]
+
+2016-01-19T08:04:13.442Z - error: stderr:INFO 01/19 08:04:13 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:34843
+INFO 01/19 08:04:13 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=54830]]
+
+2016-01-19T08:04:13.543Z - error: stderr:INFO 01/19 08:04:13 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:54830
+
+2016-01-19T08:04:13.543Z - error: stderr:INFO 01/19 08:04:13 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=53567]]
+
+2016-01-19T08:04:13.645Z - error: stderr:INFO 01/19 08:04:13 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:53567
+INFO 01/19 08:04:13 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=49760]]
+
+2016-01-19T08:04:13.750Z - error: stderr:INFO 01/19 08:04:13 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:49760
+INFO 01/19 08:04:13 n.l.b.p.j.u.Threade~ - Stopping Acceptor ServerSocket[addr=/0.0.0.0,localport=2000]
+
+2016-01-19T08:04:13.851Z - error: stderr:INFO 01/19 08:04:13 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:2000
+
+2016-01-19T08:04:14.259Z - error: stderr:INFO 01/19 08:04:14 n.l.b.p.j.u.Contain~ - Stopped HttpContext[/,/]
+INFO 01/19 08:04:14 n.l.b.p.j.u.Contain~ - Stopped net.lightbody.bmp.proxy.jetty.jetty.Server@65f4b652
+
+2016-01-19T08:04:14.295Z - error: stderr:INFO 01/19 08:04:14 n.l.b.p.j.h.HttpSer~ - Version Jetty/2.0.0
+INFO 01/19 08:04:14 n.l.b.p.j.u.Contain~ - Started HttpContext[/,/]
+
+2016-01-19T08:04:14.300Z - error: stderr:INFO 01/19 08:04:14 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:2000
+
+2016-01-19T08:04:14.300Z - error: stderr:INFO 01/19 08:04:14 n.l.b.p.j.u.Contain~ - Started net.lightbody.bmp.proxy.jetty.jetty.Server@6e9701a1
+
+2016-01-19T08:04:16.289Z - error: stderr:INFO 01/19 08:04:16 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:56407
+
+2016-01-19T08:04:16.393Z - error: stderr:INFO 01/19 08:04:16 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:58954
+
+2016-01-19T08:04:16.572Z - error: stderr:INFO 01/19 08:04:16 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:33091
+
+2016-01-19T08:04:16.901Z - error: stderr:INFO 01/19 08:04:16 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:35067
+
+2016-01-19T08:04:17.204Z - error: stderr:INFO 01/19 08:04:17 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:50379
+
+2016-01-19T08:04:17.448Z - error: stderr:INFO 01/19 08:04:17 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:47538
+
+2016-01-19T08:04:17.605Z - error: stderr:INFO 01/19 08:04:17 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:45234
+
+2016-01-19T08:04:21.071Z - error: stderr:INFO 01/19 08:04:21 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:52791
+
+2016-01-19T08:04:22.216Z - error: stderr:INFO 01/19 08:04:22 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:34038
+
+2016-01-19T08:04:33.800Z - error: stderr:INFO 01/19 08:04:33 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:35270
+
+2016-01-19T08:04:35.210Z - error: stderr:INFO 01/19 08:04:35 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:51663
+
+2016-01-19T08:04:38.087Z - error: stderr:INFO 01/19 08:04:38 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=56407]]
+
+2016-01-19T08:04:38.189Z - error: stderr:INFO 01/19 08:04:38 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:56407
+
+2016-01-19T08:04:38.189Z - error: stderr:INFO 01/19 08:04:38 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=50379]]
+
+2016-01-19T08:04:38.290Z - error: stderr:INFO 01/19 08:04:38 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:50379
+
+2016-01-19T08:04:38.290Z - error: stderr:INFO 01/19 08:04:38 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=35067]]
+
+2016-01-19T08:04:38.391Z - error: stderr:INFO 01/19 08:04:38 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:35067
+
+2016-01-19T08:04:38.391Z - error: stderr:INFO 01/19 08:04:38 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=33091]]
+
+2016-01-19T08:04:38.492Z - error: stderr:INFO 01/19 08:04:38 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:33091
+
+2016-01-19T08:04:38.492Z - error: stderr:INFO 01/19 08:04:38 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=34038]]
+
+2016-01-19T08:04:38.594Z - error: stderr:INFO 01/19 08:04:38 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:34038
+
+2016-01-19T08:04:38.594Z - error: stderr:INFO 01/19 08:04:38 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=45234]]
+
+2016-01-19T08:04:38.694Z - error: stderr:INFO 01/19 08:04:38 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:45234
+
+2016-01-19T08:04:38.694Z - error: stderr:INFO 01/19 08:04:38 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=47538]]
+
+2016-01-19T08:04:38.796Z - error: stderr:INFO 01/19 08:04:38 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:47538
+
+2016-01-19T08:04:38.796Z - error: stderr:INFO 01/19 08:04:38 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=58954]]
+
+2016-01-19T08:04:38.896Z - error: stderr:INFO 01/19 08:04:38 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:58954
+
+2016-01-19T08:04:38.896Z - error: stderr:INFO 01/19 08:04:38 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=51663]]
+
+2016-01-19T08:04:38.997Z - error: stderr:INFO 01/19 08:04:38 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:51663
+
+2016-01-19T08:04:38.997Z - error: stderr:INFO 01/19 08:04:38 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=35270]]
+
+2016-01-19T08:04:39.098Z - error: stderr:INFO 01/19 08:04:39 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:35270
+
+2016-01-19T08:04:39.099Z - error: stderr:INFO 01/19 08:04:39 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=52791]]
+
+2016-01-19T08:04:39.200Z - error: stderr:INFO 01/19 08:04:39 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:52791
+
+2016-01-19T08:04:39.203Z - error: stderr:INFO 01/19 08:04:39 n.l.b.p.j.u.Threade~ - Stopping Acceptor ServerSocket[addr=/0.0.0.0,localport=2000]
+
+2016-01-19T08:04:39.305Z - error: stderr:INFO 01/19 08:04:39 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:2000
+
+2016-01-19T08:04:39.492Z - error: stderr:INFO 01/19 08:04:39 n.l.b.p.j.u.Contain~ - Stopped HttpContext[/,/]
+
+2016-01-19T08:04:39.492Z - error: stderr:INFO 01/19 08:04:39 n.l.b.p.j.u.Contain~ - Stopped net.lightbody.bmp.proxy.jetty.jetty.Server@6e9701a1
+
+2016-01-19T08:04:39.509Z - error: stderr:INFO 01/19 08:04:39 n.l.b.p.j.h.HttpSer~ - Version Jetty/2.0.0
+INFO 01/19 08:04:39 n.l.b.p.j.u.Contain~ - Started HttpContext[/,/]
+
+2016-01-19T08:04:39.510Z - error: stderr:INFO 01/19 08:04:39 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:2000
+INFO 01/19 08:04:39 n.l.b.p.j.u.Contain~ - Started net.lightbody.bmp.proxy.jetty.jetty.Server@214a3bd8
+
+2016-01-19T08:04:41.184Z - error: stderr:INFO 01/19 08:04:41 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:49109
+
+2016-01-19T08:04:41.447Z - error: stderr:INFO 01/19 08:04:41 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:59489
+
+2016-01-19T08:04:41.595Z - error: stderr:INFO 01/19 08:04:41 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:60523
+
+2016-01-19T08:04:41.953Z - error: stderr:INFO 01/19 08:04:41 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:49345
+
+2016-01-19T08:04:42.443Z - error: stderr:INFO 01/19 08:04:42 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:56893
+
+2016-01-19T08:04:42.745Z - error: stderr:INFO 01/19 08:04:42 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:39954
+
+2016-01-19T08:04:42.917Z - error: stderr:INFO 01/19 08:04:42 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:49215
+
+2016-01-19T08:04:57.033Z - error: stderr:INFO 01/19 08:04:57 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:52697
+
+2016-01-19T08:04:57.154Z - error: stderr:INFO 01/19 08:04:57 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:35484
+
+2016-01-19T08:04:57.513Z - error: stderr:INFO 01/19 08:04:57 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:43313
+
+2016-01-19T08:05:10.811Z - error: stderr:WARN 01/19 08:05:10 n.l.b.p.BrowserMobP~ - IOException while trying to report an HTTP error
+java.io.IOException: closed
+	at net.lightbody.bmp.proxy.jetty.http.HttpOutputStream.prepareOutput(HttpOutputStream.java:444)
+	at net.lightbody.bmp.proxy.jetty.http.HttpOutputStream.write(HttpOutputStream.java:413)
+	at net.lightbody.bmp.proxy.jetty.http.HttpOutputStream.write(HttpOutputStream.java:406)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler.reportError(BrowserMobProxyHandler.java:312)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler.access$200(BrowserMobProxyHandler.java:26)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler$1.reportError(BrowserMobProxyHandler.java:265)
+	at net.lightbody.bmp.proxy.http.BrowserMobHttpClient.execute(BrowserMobHttpClient.java:832)
+	at net.lightbody.bmp.proxy.http.BrowserMobHttpClient.execute(BrowserMobHttpClient.java:591)
+	at net.lightbody.bmp.proxy.http.BrowserMobHttpRequest.execute(BrowserMobHttpRequest.java:149)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler.proxyPlainTextRequest(BrowserMobProxyHandler.java:269)
+	at net.lightbody.bmp.proxy.selenium.SeleniumProxyHandler.handle(SeleniumProxyHandler.java:185)
+	at net.lightbody.bmp.proxy.jetty.http.HttpContext.handle(HttpContext.java:1509)
+	at net.lightbody.bmp.proxy.jetty.http.HttpContext.handle(HttpContext.java:1461)
+	at net.lightbody.bmp.proxy.jetty.http.HttpServer.service(HttpServer.java:892)
+	at net.lightbody.bmp.proxy.jetty.http.HttpConnection.service(HttpConnection.java:815)
+	at net.lightbody.bmp.proxy.jetty.http.HttpConnection.handleNext(HttpConnection.java:981)
+	at net.lightbody.bmp.proxy.jetty.http.HttpConnection.handle(HttpConnection.java:832)
+	at net.lightbody.bmp.proxy.jetty.http.SocketListener.handleConnection(SocketListener.java:245)
+	at net.lightbody.bmp.proxy.jetty.util.ThreadedServer.handle(ThreadedServer.java:357)
+	at net.lightbody.bmp.proxy.jetty.util.ThreadPool$PoolThread.run(ThreadPool.java:534)
+INFO 01/19 08:05:10 n.l.b.p.h.BrowserMo~ - EOFException(java.net.SocketException: Broken pipe) when requesting http://daydreaming.ru/media/favicon/default/logo_small.png
+WARN 01/19 08:05:10 n.l.b.p.j.h.HttpCon~ - Invalid length: Content-Length=9689 written=7864 for http://daydreaming.ru/media/favicon/default/logo_small.png
+
+2016-01-19T08:05:10.908Z - error: stderr:INFO 01/19 08:05:10 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:53820
+
+2016-01-19T08:05:13.792Z - error: stderr:INFO 01/19 08:05:13 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=49109]]
+
+2016-01-19T08:05:13.892Z - error: stderr:INFO 01/19 08:05:13 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:49109
+
+2016-01-19T08:05:13.892Z - error: stderr:INFO 01/19 08:05:13 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=53820]]
+
+2016-01-19T08:05:13.997Z - error: stderr:INFO 01/19 08:05:13 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:53820
+
+2016-01-19T08:05:13.997Z - error: stderr:INFO 01/19 08:05:13 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=49215]]
+
+2016-01-19T08:05:14.097Z - error: stderr:INFO 01/19 08:05:14 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:49215
+
+2016-01-19T08:05:14.098Z - error: stderr:INFO 01/19 08:05:14 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=49345]]
+
+2016-01-19T08:05:14.199Z - error: stderr:INFO 01/19 08:05:14 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:49345
+
+2016-01-19T08:05:14.199Z - error: stderr:INFO 01/19 08:05:14 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=59489]]
+
+2016-01-19T08:05:14.300Z - error: stderr:INFO 01/19 08:05:14 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:59489
+
+2016-01-19T08:05:14.301Z - error: stderr:INFO 01/19 08:05:14 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=35484]]
+
+2016-01-19T08:05:14.401Z - error: stderr:INFO 01/19 08:05:14 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:35484
+
+2016-01-19T08:05:14.401Z - error: stderr:INFO 01/19 08:05:14 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=56893]]
+
+2016-01-19T08:05:14.504Z - error: stderr:INFO 01/19 08:05:14 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:56893
+
+2016-01-19T08:05:14.504Z - error: stderr:INFO 01/19 08:05:14 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=43313]]
+
+2016-01-19T08:05:14.605Z - error: stderr:INFO 01/19 08:05:14 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:43313
+
+2016-01-19T08:05:14.606Z - error: stderr:INFO 01/19 08:05:14 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=39954]]
+
+2016-01-19T08:05:14.707Z - error: stderr:INFO 01/19 08:05:14 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:39954
+
+2016-01-19T08:05:14.708Z - error: stderr:INFO 01/19 08:05:14 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=52697]]
+
+2016-01-19T08:05:14.808Z - error: stderr:INFO 01/19 08:05:14 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:52697
+
+2016-01-19T08:05:14.808Z - error: stderr:INFO 01/19 08:05:14 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=60523]]
+
+2016-01-19T08:05:14.909Z - error: stderr:INFO 01/19 08:05:14 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:60523
+
+2016-01-19T08:05:14.912Z - error: stderr:INFO 01/19 08:05:14 n.l.b.p.j.u.Threade~ - Stopping Acceptor ServerSocket[addr=/0.0.0.0,localport=2000]
+
+2016-01-19T08:05:15.119Z - error: stderr:INFO 01/19 08:05:15 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:2000
+
+2016-01-19T08:05:15.305Z - error: stderr:INFO 01/19 08:05:15 n.l.b.p.j.u.Contain~ - Stopped HttpContext[/,/]
+
+2016-01-19T08:05:15.305Z - error: stderr:INFO 01/19 08:05:15 n.l.b.p.j.u.Contain~ - Stopped net.lightbody.bmp.proxy.jetty.jetty.Server@214a3bd8
+
+2016-01-19T08:05:15.333Z - error: stderr:INFO 01/19 08:05:15 n.l.b.p.j.h.HttpSer~ - Version Jetty/2.0.0
+INFO 01/19 08:05:15 n.l.b.p.j.u.Contain~ - Started HttpContext[/,/]
+
+2016-01-19T08:05:15.334Z - error: stderr:INFO 01/19 08:05:15 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:2000
+INFO 01/19 08:05:15 n.l.b.p.j.u.Contain~ - Started net.lightbody.bmp.proxy.jetty.jetty.Server@750c74f0
+
+2016-01-19T08:05:17.302Z - error: stderr:INFO 01/19 08:05:17 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:51262
+
+2016-01-19T08:05:17.746Z - error: stderr:INFO 01/19 08:05:17 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:39921
+
+2016-01-19T08:05:18.170Z - error: stderr:INFO 01/19 08:05:18 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:60367
+
+2016-01-19T08:05:18.459Z - error: stderr:INFO 01/19 08:05:18 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:34962
+
+2016-01-19T08:05:18.648Z - error: stderr:INFO 01/19 08:05:18 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:40450
+
+2016-01-19T08:05:31.250Z - error: stderr:INFO 01/19 08:05:31 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:51218
+
+2016-01-19T08:05:31.485Z - error: stderr:INFO 01/19 08:05:31 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:48620
+
+2016-01-19T08:05:31.677Z - error: stderr:INFO 01/19 08:05:31 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:35531
+
+2016-01-19T08:05:33.030Z - error: stderr:INFO 01/19 08:05:33 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:51872
+
+2016-01-19T08:05:35.677Z - error: stderr:INFO 01/19 08:05:35 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=60367]]
+
+2016-01-19T08:05:35.777Z - error: stderr:INFO 01/19 08:05:35 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:60367
+
+2016-01-19T08:05:35.777Z - error: stderr:INFO 01/19 08:05:35 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=35531]]
+
+2016-01-19T08:05:35.878Z - error: stderr:INFO 01/19 08:05:35 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:35531
+
+2016-01-19T08:05:35.878Z - error: stderr:INFO 01/19 08:05:35 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=40450]]
+
+2016-01-19T08:05:35.979Z - error: stderr:INFO 01/19 08:05:35 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:40450
+
+2016-01-19T08:05:35.979Z - error: stderr:INFO 01/19 08:05:35 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=51262]]
+
+2016-01-19T08:05:36.081Z - error: stderr:INFO 01/19 08:05:36 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:51262
+
+2016-01-19T08:05:36.081Z - error: stderr:INFO 01/19 08:05:36 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=51872]]
+
+2016-01-19T08:05:36.182Z - error: stderr:INFO 01/19 08:05:36 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:51872
+
+2016-01-19T08:05:36.182Z - error: stderr:INFO 01/19 08:05:36 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=34962]]
+
+2016-01-19T08:05:36.283Z - error: stderr:INFO 01/19 08:05:36 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:34962
+INFO 01/19 08:05:36 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=51218]]
+
+2016-01-19T08:05:36.384Z - error: stderr:INFO 01/19 08:05:36 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:51218
+
+2016-01-19T08:05:36.385Z - error: stderr:INFO 01/19 08:05:36 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=48620]]
+
+2016-01-19T08:05:36.486Z - error: stderr:INFO 01/19 08:05:36 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:48620
+INFO 01/19 08:05:36 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=39921]]
+
+2016-01-19T08:05:36.590Z - error: stderr:INFO 01/19 08:05:36 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:39921
+INFO 01/19 08:05:36 n.l.b.p.j.u.Threade~ - Stopping Acceptor ServerSocket[addr=/0.0.0.0,localport=2000]
+
+2016-01-19T08:05:36.824Z - error: stderr:INFO 01/19 08:05:36 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:2000
+
+2016-01-19T08:05:36.862Z - error: stderr:INFO 01/19 08:05:36 n.l.b.p.j.u.Contain~ - Stopped HttpContext[/,/]
+
+2016-01-19T08:05:36.862Z - error: stderr:INFO 01/19 08:05:36 n.l.b.p.j.u.Contain~ - Stopped net.lightbody.bmp.proxy.jetty.jetty.Server@750c74f0
+
+2016-01-19T08:05:36.873Z - info: Stopped proxy process.
+2016-01-19T08:06:51.320Z - info: stdout:Unable to find conf/bmp-logging.properties. Using default logging configuration.
+2016-01-19T08:06:51.320Z - info: stdout:
+
+2016-01-19T08:06:51.905Z - error: stderr:INFO 01/19 08:06:51 n.l.b.p.Main         - Starting BrowserMob Proxy version 2.0.0
+
+2016-01-19T08:06:51.943Z - error: stderr:INFO 01/19 08:06:51 o.e.j.u.log          - jetty-2.0.0
+
+2016-01-19T08:06:51.999Z - error: stderr:INFO 01/19 08:06:51 o.e.j.u.log          - started o.e.j.s.ServletContextHandler{/,null}
+
+2016-01-19T08:06:52.893Z - error: stderr:INFO 01/19 08:06:52 o.e.j.u.log          - Started SelectChannelConnector@0.0.0.0:2001
+
+2016-01-19T08:06:53.641Z - error: stderr:INFO 01/19 08:06:53 n.l.b.p.j.h.HttpSer~ - Version Jetty/2.0.0
+
+2016-01-19T08:06:53.643Z - error: stderr:INFO 01/19 08:06:53 n.l.b.p.j.u.Contain~ - Started HttpContext[/,/]
+
+2016-01-19T08:06:53.645Z - error: stderr:INFO 01/19 08:06:53 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:2000
+
+2016-01-19T08:06:53.645Z - error: stderr:INFO 01/19 08:06:53 n.l.b.p.j.u.Contain~ - Started net.lightbody.bmp.proxy.jetty.jetty.Server@1c313f4e
+
+2016-01-19T08:06:57.882Z - error: stderr:INFO 01/19 08:06:57 n.l.b.p.j.u.Credent~ - Checking Resource aliases
+
+2016-01-19T08:06:59.196Z - error: stderr:INFO 01/19 08:06:59 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:56225
+
+2016-01-19T08:06:59.583Z - error: stderr:INFO 01/19 08:06:59 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:51564
+
+2016-01-19T08:07:00.299Z - error: stderr:INFO 01/19 08:07:00 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:55132
+
+2016-01-19T08:07:00.997Z - error: stderr:INFO 01/19 08:07:00 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:48030
+
+2016-01-19T08:07:01.488Z - error: stderr:INFO 01/19 08:07:01 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:39065
+
+2016-01-19T08:07:01.728Z - error: stderr:INFO 01/19 08:07:01 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:53656
+
+2016-01-19T08:07:02.030Z - error: stderr:INFO 01/19 08:07:02 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:55416
+
+2016-01-19T08:07:02.512Z - error: stderr:INFO 01/19 08:07:02 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:57359
+
+2016-01-19T08:07:05.738Z - error: stderr:INFO 01/19 08:07:05 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:59552
+
+2016-01-19T08:07:05.922Z - error: stderr:INFO 01/19 08:07:05 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:39899
+
+2016-01-19T08:07:06.972Z - error: stderr:INFO 01/19 08:07:06 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:42729
+
+2016-01-19T08:07:07.331Z - error: stderr:INFO 01/19 08:07:07 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:51980
+
+2016-01-19T08:07:08.063Z - error: stderr:INFO 01/19 08:07:08 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:40078
+
+2016-01-19T08:07:08.235Z - error: stderr:INFO 01/19 08:07:08 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:59028
+
+2016-01-19T08:07:08.709Z - error: stderr:WARN 01/19 08:07:08 n.l.b.p.BrowserMobP~ - IOException while trying to report an HTTP error
+java.io.IOException: closed
+	at net.lightbody.bmp.proxy.jetty.http.HttpOutputStream.prepareOutput(HttpOutputStream.java:444)
+	at net.lightbody.bmp.proxy.jetty.http.HttpOutputStream.write(HttpOutputStream.java:413)
+	at net.lightbody.bmp.proxy.jetty.http.HttpOutputStream.write(HttpOutputStream.java:406)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler.reportError(BrowserMobProxyHandler.java:312)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler.access$200(BrowserMobProxyHandler.java:26)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler$1.reportError(BrowserMobProxyHandler.java:265)
+	at net.lightbody.bmp.proxy.http.BrowserMobHttpClient.execute(BrowserMobHttpClient.java:832)
+	at net.lightbody.bmp.proxy.http.BrowserMobHttpClient.execute(BrowserMobHttpClient.java:591)
+	at net.lightbody.bmp.proxy.http.BrowserMobHttpRequest.execute(BrowserMobHttpRequest.java:149)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler.proxyPlainTextRequest(BrowserMobProxyHandler.java:269)
+	at net.lightbody.bmp.proxy.selenium.SeleniumProxyHandler.handle(SeleniumProxyHandler.java:185)
+	at net.lightbody.bmp.proxy.jetty.http.HttpContext.handle(HttpContext.java:1509)
+	at net.lightbody.bmp.proxy.jetty.http.HttpContext.handle(HttpContext.java:1461)
+	at net.lightbody.bmp.proxy.jetty.http.HttpServer.service(HttpServer.java:892)
+	at net.lightbody.bmp.proxy.jetty.http.HttpConnection.service(HttpConnection.java:815)
+	at net.lightbody.bmp.proxy.jetty.http.HttpConnection.handleNext(HttpConnection.java:981)
+	at net.lightbody.bmp.proxy.jetty.http.HttpConnection.handle(HttpConnection.java:832)
+	at net.lightbody.bmp.proxy.jetty.http.SocketListener.handleConnection(SocketListener.java:245)
+	at net.lightbody.bmp.proxy.jetty.util.ThreadedServer.handle(ThreadedServer.java:357)
+	at net.lightbody.bmp.proxy.jetty.util.ThreadPool$PoolThread.run(ThreadPool.java:534)
+WARN 01/19 08:07:08 n.l.b.p.BrowserMobP~ - IOException while trying to report an HTTP error
+java.io.IOException: closed
+	at net.lightbody.bmp.proxy.jetty.http.HttpOutputStream.prepareOutput(HttpOutputStream.java:444)
+	at net.lightbody.bmp.proxy.jetty.http.HttpOutputStream.write(HttpOutputStream.java:413)
+	at net.lightbody.bmp.proxy.jetty.http.HttpOutputStream.write(HttpOutputStream.java:406)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler.reportError(BrowserMobProxyHandler.java:312)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler.access$200(BrowserMobProxyHandler.java:26)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler$1.reportError(BrowserMobProxyHandler.java:265)
+	at net.lightbody.bmp.proxy.http.BrowserMobHttpClient.execute(BrowserMobHttpClient.java:832)
+	at net.lightbody.bmp.proxy.http.BrowserMobHttpClient.execute(BrowserMobHttpClient.java:591)
+	at net.lightbody.bmp.proxy.http.BrowserMobHttpRequest.execute(BrowserMobHttpRequest.java:149)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler.proxyPlainTextRequest(BrowserMobProxyHandler.java:269)
+	at net.lightbody.bmp.proxy.selenium.SeleniumProxyHandler.handle(SeleniumProxyHandler.java:185)
+	at net.lightbody.bmp.proxy.jetty.http.HttpContext.handle(HttpContext.java:1509)
+	at net.lightbody.bmp.proxy.jetty.http.HttpContext.handle(HttpContext.java:1461)
+	at net.lightbody.bmp.proxy.jetty.http.HttpServer.service(HttpServer.java:892)
+	at net.lightbody.bmp.proxy.jetty.http.HttpConnection.service(HttpConnection.java:815)
+	at net.lightbody.bmp.proxy.jetty.http.HttpConnection.handleNext(HttpConnection.java:981)
+	at net.lightbody.bmp.proxy.jetty.http.HttpConnection.handle(HttpConnection.java:832)
+	at net.lightbody.bmp.proxy.jetty.http.SocketListener.handleConnection(SocketListener.java:245)
+	at net.lightbody.bmp.proxy.jetty.util.ThreadedServer.handle(ThreadedServer.java:357)
+	at net.lightbody.bmp.proxy.jetty.util.ThreadPool$PoolThread.run(ThreadPool.java:534)
+WARN 01/19 08:07:08 n.l.b.p.BrowserMobP~ - IOException while trying to report an HTTP error
+java.io.IOException: closed
+	at net.lightbody.bmp.proxy.jetty.http.HttpOutputStream.prepareOutput(HttpOutputStream.java:444)
+	at net.lightbody.bmp.proxy.jetty.http.HttpOutputStream.write(HttpOutputStream.java:413)
+	at net.lightbody.bmp.proxy.jetty.http.HttpOutputStream.write(HttpOutputStream.java:406)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler.reportError(BrowserMobProxyHandler.java:312)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler.access$200(BrowserMobProxyHandler.java:26)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler$1.reportError(BrowserMobProxyHandler.java:265)
+	at net.lightbody.bmp.proxy.http.BrowserMobHttpClient.execute(BrowserMobHttpClient.java:832)
+	at net.lightbody.bmp.proxy.http.BrowserMobHttpClient.execute(BrowserMobHttpClient.java:591)
+	at net.lightbody.bmp.proxy.http.BrowserMobHttpRequest.execute(BrowserMobHttpRequest.java:149)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler.proxyPlainTextRequest(BrowserMobProxyHandler.java:269)
+	at net.lightbody.bmp.proxy.selenium.SeleniumProxyHandler.handle(SeleniumProxyHandler.java:185)
+	at net.lightbody.bmp.proxy.jetty.http.HttpContext.handle(HttpContext.java:1509)
+	at net.lightbody.bmp.proxy.jetty.http.HttpContext.handle(HttpContext.java:1461)
+	at net.lightbody.bmp.proxy.jetty.http.HttpServer.service(HttpServer.java:892)
+	at net.lightbody.bmp.proxy.jetty.http.HttpConnection.service(HttpConnection.java:815)
+	at net.lightbody.bmp.proxy.jetty.http.HttpConnection.handleNext(HttpConnection.java:981)
+	at net.lightbody.bmp.proxy.jetty.http.HttpConnection.handle(HttpConnection.java:832)
+	at net.lightbody.bmp.proxy.jetty.http.SocketListener.handleConnection(SocketListener.java:245)
+	at net.lightbody.bmp.proxy.jetty.util.ThreadedServer.handle(ThreadedServer.java:357)
+	at net.lightbody.bmp.proxy.jetty.util.ThreadPool$PoolThread.run(ThreadPool.java:534)
+
+2016-01-19T08:07:08.709Z - error: stderr:INFO 01/19 08:07:08 n.l.b.p.h.BrowserMo~ - EOFException(java.net.SocketException: Broken pipe) when requesting http://happia.ru/media/product/3b/novogodnii-kostyum-santa-klausa-dlya-malyshki-28.jpg
+INFO 01/19 08:07:08 n.l.b.p.h.BrowserMo~ - EOFException(java.net.SocketException: Broken pipe) when requesting http://happia.ru/media/product/9e/detskii-kostyum-betmena-152-10.jpg
+
+2016-01-19T08:07:08.710Z - error: stderr:INFO 01/19 08:07:08 n.l.b.p.h.BrowserMo~ - EOFException(java.net.SocketException: Broken pipe) when requesting http://happia.ru/media/product/3b/novogodnii-kostyum-santa-klausa-dlya-malyshki-28.jpg
+WARN 01/19 08:07:08 n.l.b.p.j.h.HttpCon~ - Invalid length: Content-Length=28528 written=7903 for http://happia.ru/media/product/3b/novogodnii-kostyum-santa-klausa-dlya-malyshki-28.jpg
+
+2016-01-19T08:07:08.711Z - error: stderr:WARN 01/19 08:07:08 n.l.b.p.j.h.HttpCon~ - Invalid length: Content-Length=16594 written=8151 for http://happia.ru/media/product/9e/detskii-kostyum-betmena-152-10.jpg
+
+2016-01-19T08:07:08.711Z - error: stderr:WARN 01/19 08:07:08 n.l.b.p.j.h.HttpCon~ - Invalid length: Content-Length=28528 written=7903 for http://happia.ru/media/product/3b/novogodnii-kostyum-santa-klausa-dlya-malyshki-28.jpg
+
+2016-01-19T08:07:08.715Z - error: stderr:WARN 01/19 08:07:08 n.l.b.p.BrowserMobP~ - IOException while trying to report an HTTP error
+java.io.IOException: closed
+	at net.lightbody.bmp.proxy.jetty.http.HttpOutputStream.prepareOutput(HttpOutputStream.java:444)
+	at net.lightbody.bmp.proxy.jetty.http.HttpOutputStream.write(HttpOutputStream.java:413)
+	at net.lightbody.bmp.proxy.jetty.http.HttpOutputStream.write(HttpOutputStream.java:406)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler.reportError(BrowserMobProxyHandler.java:312)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler.access$200(BrowserMobProxyHandler.java:26)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler$1.reportError(BrowserMobProxyHandler.java:265)
+	at net.lightbody.bmp.proxy.http.BrowserMobHttpClient.execute(BrowserMobHttpClient.java:832)
+	at net.lightbody.bmp.proxy.http.BrowserMobHttpClient.execute(BrowserMobHttpClient.java:591)
+	at net.lightbody.bmp.proxy.http.BrowserMobHttpRequest.execute(BrowserMobHttpRequest.java:149)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler.proxyPlainTextRequest(BrowserMobProxyHandler.java:269)
+	at net.lightbody.bmp.proxy.selenium.SeleniumProxyHandler.handle(SeleniumProxyHandler.java:185)
+	at net.lightbody.bmp.proxy.jetty.http.HttpContext.handle(HttpContext.java:1509)
+	at net.lightbody.bmp.proxy.jetty.http.HttpContext.handle(HttpContext.java:1461)
+	at net.lightbody.bmp.proxy.jetty.http.HttpServer.service(HttpServer.java:892)
+	at net.lightbody.bmp.proxy.jetty.http.HttpConnection.service(HttpConnection.java:815)
+	at net.lightbody.bmp.proxy.jetty.http.HttpConnection.handleNext(HttpConnection.java:981)
+	at net.lightbody.bmp.proxy.jetty.http.HttpConnection.handle(HttpConnection.java:832)
+	at net.lightbody.bmp.proxy.jetty.http.SocketListener.handleConnection(SocketListener.java:245)
+	at net.lightbody.bmp.proxy.jetty.util.ThreadedServer.handle(ThreadedServer.java:357)
+	at net.lightbody.bmp.proxy.jetty.util.ThreadPool$PoolThread.run(ThreadPool.java:534)
+
+2016-01-19T08:07:08.724Z - error: stderr:INFO 01/19 08:07:08 n.l.b.p.h.BrowserMo~ - EOFException(java.net.SocketException: Broken pipe) when requesting http://happia.ru/media/product/88/detskii-kostyum-betmena-140-a3.jpg
+WARN 01/19 08:07:08 n.l.b.p.j.h.HttpCon~ - Invalid length: Content-Length=16594 written=5255 for http://happia.ru/media/product/88/detskii-kostyum-betmena-140-a3.jpg
+
+2016-01-19T08:07:11.054Z - error: stderr:INFO 01/19 08:07:11 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=53656]]
+
+2016-01-19T08:07:11.155Z - error: stderr:INFO 01/19 08:07:11 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:53656
+
+2016-01-19T08:07:11.156Z - error: stderr:INFO 01/19 08:07:11 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=51980]]
+
+2016-01-19T08:07:11.257Z - error: stderr:INFO 01/19 08:07:11 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:51980
+
+2016-01-19T08:07:11.257Z - error: stderr:INFO 01/19 08:07:11 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=57359]]
+
+2016-01-19T08:07:11.358Z - error: stderr:INFO 01/19 08:07:11 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:57359
+
+2016-01-19T08:07:11.358Z - error: stderr:INFO 01/19 08:07:11 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=39899]]
+
+2016-01-19T08:07:11.460Z - error: stderr:INFO 01/19 08:07:11 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:39899
+INFO 01/19 08:07:11 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=40078]]
+
+2016-01-19T08:07:11.560Z - error: stderr:INFO 01/19 08:07:11 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:40078
+
+2016-01-19T08:07:11.560Z - error: stderr:INFO 01/19 08:07:11 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=39065]]
+
+2016-01-19T08:07:11.661Z - error: stderr:INFO 01/19 08:07:11 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:39065
+
+2016-01-19T08:07:11.662Z - error: stderr:INFO 01/19 08:07:11 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=55132]]
+
+2016-01-19T08:07:11.763Z - error: stderr:INFO 01/19 08:07:11 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:55132
+INFO 01/19 08:07:11 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=59028]]
+
+2016-01-19T08:07:11.864Z - error: stderr:INFO 01/19 08:07:11 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:59028
+
+2016-01-19T08:07:11.864Z - error: stderr:INFO 01/19 08:07:11 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=42729]]
+
+2016-01-19T08:07:11.965Z - error: stderr:INFO 01/19 08:07:11 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:42729
+
+2016-01-19T08:07:11.966Z - error: stderr:INFO 01/19 08:07:11 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=51564]]
+
+2016-01-19T08:07:12.070Z - error: stderr:INFO 01/19 08:07:12 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:51564
+INFO 01/19 08:07:12 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=59552]]
+
+2016-01-19T08:07:12.171Z - error: stderr:INFO 01/19 08:07:12 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:59552
+
+2016-01-19T08:07:12.171Z - error: stderr:INFO 01/19 08:07:12 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=48030]]
+
+2016-01-19T08:07:12.272Z - error: stderr:INFO 01/19 08:07:12 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:48030
+
+2016-01-19T08:07:12.272Z - error: stderr:INFO 01/19 08:07:12 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=56225]]
+
+2016-01-19T08:07:12.377Z - error: stderr:INFO 01/19 08:07:12 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:56225
+
+2016-01-19T08:07:12.378Z - error: stderr:INFO 01/19 08:07:12 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=55416]]
+
+2016-01-19T08:07:12.479Z - error: stderr:INFO 01/19 08:07:12 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:55416
+
+2016-01-19T08:07:12.484Z - error: stderr:INFO 01/19 08:07:12 n.l.b.p.j.u.Threade~ - Stopping Acceptor ServerSocket[addr=/0.0.0.0,localport=2000]
+
+2016-01-19T08:07:12.587Z - error: stderr:INFO 01/19 08:07:12 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:2000
+
+2016-01-19T08:07:12.973Z - error: stderr:INFO 01/19 08:07:12 n.l.b.p.j.u.Contain~ - Stopped HttpContext[/,/]
+
+2016-01-19T08:07:12.973Z - error: stderr:INFO 01/19 08:07:12 n.l.b.p.j.u.Contain~ - Stopped net.lightbody.bmp.proxy.jetty.jetty.Server@1c313f4e
+
+2016-01-19T08:07:12.984Z - info: Stopped proxy process.
+2016-01-19T08:08:39.229Z - info: stdout:Unable to find conf/bmp-logging.properties. Using default logging configuration.
+
+2016-01-19T08:08:39.839Z - error: stderr:INFO 01/19 08:08:39 n.l.b.p.Main         - Starting BrowserMob Proxy version 2.0.0
+
+2016-01-19T08:08:39.873Z - error: stderr:INFO 01/19 08:08:39 o.e.j.u.log          - jetty-2.0.0
+
+2016-01-19T08:08:39.923Z - error: stderr:INFO 01/19 08:08:39 o.e.j.u.log          - started o.e.j.s.ServletContextHandler{/,null}
+
+2016-01-19T08:08:40.790Z - error: stderr:INFO 01/19 08:08:40 o.e.j.u.log          - Started SelectChannelConnector@0.0.0.0:2001
+
+2016-01-19T08:08:41.243Z - error: stderr:INFO 01/19 08:08:41 n.l.b.p.j.h.HttpSer~ - Version Jetty/2.0.0
+
+2016-01-19T08:08:41.245Z - error: stderr:INFO 01/19 08:08:41 n.l.b.p.j.u.Contain~ - Started HttpContext[/,/]
+
+2016-01-19T08:08:41.249Z - error: stderr:INFO 01/19 08:08:41 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:2000
+
+2016-01-19T08:08:41.250Z - error: stderr:INFO 01/19 08:08:41 n.l.b.p.j.u.Contain~ - Started net.lightbody.bmp.proxy.jetty.jetty.Server@1c313f4e
+
+2016-01-19T08:08:47.036Z - error: stderr:INFO 01/19 08:08:47 n.l.b.p.j.u.Credent~ - Checking Resource aliases
+
+2016-01-19T08:08:48.202Z - error: stderr:INFO 01/19 08:08:48 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:39732
+
+2016-01-19T08:08:48.991Z - error: stderr:INFO 01/19 08:08:48 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:48868
+
+2016-01-19T08:08:49.532Z - error: stderr:INFO 01/19 08:08:49 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:57306
+
+2016-01-19T08:08:49.887Z - error: stderr:INFO 01/19 08:08:49 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:57958
+
+2016-01-19T08:08:50.244Z - error: stderr:INFO 01/19 08:08:50 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:60452
+
+2016-01-19T08:08:51.013Z - error: stderr:INFO 01/19 08:08:51 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:41696
+
+2016-01-19T08:08:51.712Z - error: stderr:INFO 01/19 08:08:51 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:52523
+
+2016-01-19T08:08:53.442Z - error: stderr:INFO 01/19 08:08:53 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:39453
+
+2016-01-19T08:08:53.797Z - error: stderr:INFO 01/19 08:08:53 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:47464
+
+2016-01-19T08:08:56.250Z - error: stderr:WARN 01/19 08:08:56 n.l.b.p.BrowserMobP~ - IOException while trying to report an HTTP error
+java.io.IOException: closed
+	at net.lightbody.bmp.proxy.jetty.http.HttpOutputStream.prepareOutput(HttpOutputStream.java:444)
+	at net.lightbody.bmp.proxy.jetty.http.HttpOutputStream.write(HttpOutputStream.java:413)
+	at net.lightbody.bmp.proxy.jetty.http.HttpOutputStream.write(HttpOutputStream.java:406)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler.reportError(BrowserMobProxyHandler.java:312)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler.access$200(BrowserMobProxyHandler.java:26)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler$1.reportError(BrowserMobProxyHandler.java:265)
+	at net.lightbody.bmp.proxy.http.BrowserMobHttpClient.execute(BrowserMobHttpClient.java:832)
+	at net.lightbody.bmp.proxy.http.BrowserMobHttpClient.execute(BrowserMobHttpClient.java:591)
+	at net.lightbody.bmp.proxy.http.BrowserMobHttpRequest.execute(BrowserMobHttpRequest.java:149)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler.proxyPlainTextRequest(BrowserMobProxyHandler.java:269)
+	at net.lightbody.bmp.proxy.selenium.SeleniumProxyHandler.handle(SeleniumProxyHandler.java:185)
+	at net.lightbody.bmp.proxy.jetty.http.HttpContext.handle(HttpContext.java:1509)
+	at net.lightbody.bmp.proxy.jetty.http.HttpContext.handle(HttpContext.java:1461)
+	at net.lightbody.bmp.proxy.jetty.http.HttpServer.service(HttpServer.java:892)
+	at net.lightbody.bmp.proxy.jetty.http.HttpConnection.service(HttpConnection.java:815)
+	at net.lightbody.bmp.proxy.jetty.http.HttpConnection.handleNext(HttpConnection.java:981)
+	at net.lightbody.bmp.proxy.jetty.http.HttpConnection.handle(HttpConnection.java:832)
+	at net.lightbody.bmp.proxy.jetty.http.SocketListener.handleConnection(SocketListener.java:245)
+	at net.lightbody.bmp.proxy.jetty.util.ThreadedServer.handle(ThreadedServer.java:357)
+	at net.lightbody.bmp.proxy.jetty.util.ThreadPool$PoolThread.run(ThreadPool.java:534)
+
+2016-01-19T08:08:56.250Z - error: stderr:INFO 01/19 08:08:56 n.l.b.p.h.BrowserMo~ - EOFException(java.net.SocketException: Broken pipe) when requesting http://elc.img.sociaplus.com/37/8YCDRAMT6Y.jpg
+
+2016-01-19T08:08:56.250Z - error: stderr:WARN 01/19 08:08:56 n.l.b.p.j.h.HttpCon~ - Invalid length: Content-Length=37300 written=22327 for http://elc.img.sociaplus.com/37/8YCDRAMT6Y.jpg
+
+2016-01-19T08:08:56.733Z - error: stderr:WARN 01/19 08:08:56 n.l.b.p.BrowserMobP~ - IOException while trying to report an HTTP error
+java.io.IOException: closed
+	at net.lightbody.bmp.proxy.jetty.http.HttpOutputStream.prepareOutput(HttpOutputStream.java:444)
+	at net.lightbody.bmp.proxy.jetty.http.HttpOutputStream.write(HttpOutputStream.java:413)
+	at net.lightbody.bmp.proxy.jetty.http.HttpOutputStream.write(HttpOutputStream.java:406)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler.reportError(BrowserMobProxyHandler.java:312)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler.access$200(BrowserMobProxyHandler.java:26)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler$1.reportError(BrowserMobProxyHandler.java:265)
+	at net.lightbody.bmp.proxy.http.BrowserMobHttpClient.execute(BrowserMobHttpClient.java:832)
+	at net.lightbody.bmp.proxy.http.BrowserMobHttpClient.execute(BrowserMobHttpClient.java:591)
+	at net.lightbody.bmp.proxy.http.BrowserMobHttpRequest.execute(BrowserMobHttpRequest.java:149)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler.proxyPlainTextRequest(BrowserMobProxyHandler.java:269)
+	at net.lightbody.bmp.proxy.selenium.SeleniumProxyHandler.handle(SeleniumProxyHandler.java:185)
+	at net.lightbody.bmp.proxy.jetty.http.HttpContext.handle(HttpContext.java:1509)
+	at net.lightbody.bmp.proxy.jetty.http.HttpContext.handle(HttpContext.java:1461)
+	at net.lightbody.bmp.proxy.jetty.http.HttpServer.service(HttpServer.java:892)
+	at net.lightbody.bmp.proxy.jetty.http.HttpConnection.service(HttpConnection.java:815)
+	at net.lightbody.bmp.proxy.jetty.http.HttpConnection.handleNext(HttpConnection.java:981)
+	at net.lightbody.bmp.proxy.jetty.http.HttpConnection.handle(HttpConnection.java:832)
+	at net.lightbody.bmp.proxy.jetty.http.SocketListener.handleConnection(SocketListener.java:245)
+	at net.lightbody.bmp.proxy.jetty.util.ThreadedServer.handle(ThreadedServer.java:357)
+	at net.lightbody.bmp.proxy.jetty.util.ThreadPool$PoolThread.run(ThreadPool.java:534)
+
+2016-01-19T08:08:56.734Z - error: stderr:INFO 01/19 08:08:56 n.l.b.p.h.BrowserMo~ - EOFException(java.net.SocketException: Broken pipe) when requesting http://elc.img.sociaplus.com/43/8SPGBD3GUS.png
+
+2016-01-19T08:08:56.734Z - error: stderr:WARN 01/19 08:08:56 n.l.b.p.j.h.HttpCon~ - Invalid length: Content-Length=291435 written=8094 for http://elc.img.sociaplus.com/43/8SPGBD3GUS.png
+
+2016-01-19T08:08:57.572Z - error: stderr:INFO 01/19 08:08:57 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:45438
+
+2016-01-19T08:09:00.287Z - error: stderr:INFO 01/19 08:09:00 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=48868]]
+
+2016-01-19T08:09:00.388Z - error: stderr:INFO 01/19 08:09:00 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:48868
+
+2016-01-19T08:09:00.389Z - error: stderr:INFO 01/19 08:09:00 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=41696]]
+
+2016-01-19T08:09:00.490Z - error: stderr:INFO 01/19 08:09:00 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:41696
+
+2016-01-19T08:09:00.490Z - error: stderr:INFO 01/19 08:09:00 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=52523]]
+
+2016-01-19T08:09:00.591Z - error: stderr:INFO 01/19 08:09:00 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:52523
+
+2016-01-19T08:09:00.591Z - error: stderr:INFO 01/19 08:09:00 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=39453]]
+
+2016-01-19T08:09:00.692Z - error: stderr:INFO 01/19 08:09:00 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:39453
+
+2016-01-19T08:09:00.692Z - error: stderr:INFO 01/19 08:09:00 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=45438]]
+
+2016-01-19T08:09:00.793Z - error: stderr:INFO 01/19 08:09:00 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:45438
+
+2016-01-19T08:09:00.794Z - error: stderr:INFO 01/19 08:09:00 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=47464]]
+
+2016-01-19T08:09:00.895Z - error: stderr:INFO 01/19 08:09:00 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:47464
+
+2016-01-19T08:09:00.895Z - error: stderr:INFO 01/19 08:09:00 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=60452]]
+
+2016-01-19T08:09:00.996Z - error: stderr:INFO 01/19 08:09:00 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:60452
+
+2016-01-19T08:09:00.996Z - error: stderr:INFO 01/19 08:09:00 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=39732]]
+
+2016-01-19T08:09:01.098Z - error: stderr:INFO 01/19 08:09:01 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:39732
+
+2016-01-19T08:09:01.098Z - error: stderr:INFO 01/19 08:09:01 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=57306]]
+
+2016-01-19T08:09:01.199Z - error: stderr:INFO 01/19 08:09:01 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:57306
+
+2016-01-19T08:09:01.200Z - error: stderr:INFO 01/19 08:09:01 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=57958]]
+
+2016-01-19T08:09:01.301Z - error: stderr:INFO 01/19 08:09:01 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:57958
+
+2016-01-19T08:09:01.305Z - error: stderr:INFO 01/19 08:09:01 n.l.b.p.j.u.Threade~ - Stopping Acceptor ServerSocket[addr=/0.0.0.0,localport=2000]
+
+2016-01-19T08:09:01.408Z - error: stderr:INFO 01/19 08:09:01 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:2000
+
+2016-01-19T08:09:01.867Z - error: stderr:INFO 01/19 08:09:01 n.l.b.p.j.u.Contain~ - Stopped HttpContext[/,/]
+
+2016-01-19T08:09:01.868Z - error: stderr:INFO 01/19 08:09:01 n.l.b.p.j.u.Contain~ - Stopped net.lightbody.bmp.proxy.jetty.jetty.Server@1c313f4e
+
+2016-01-19T08:09:01.908Z - error: stderr:INFO 01/19 08:09:01 n.l.b.p.j.h.HttpSer~ - Version Jetty/2.0.0
+
+2016-01-19T08:09:01.908Z - error: stderr:INFO 01/19 08:09:01 n.l.b.p.j.u.Contain~ - Started HttpContext[/,/]
+
+2016-01-19T08:09:01.908Z - error: stderr:INFO 01/19 08:09:01 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:2000
+
+2016-01-19T08:09:01.909Z - error: stderr:INFO 01/19 08:09:01 n.l.b.p.j.u.Contain~ - Started net.lightbody.bmp.proxy.jetty.jetty.Server@620f8b19
+
+2016-01-19T08:09:03.669Z - error: stderr:INFO 01/19 08:09:03 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:45348
+
+2016-01-19T08:09:03.807Z - error: stderr:INFO 01/19 08:09:03 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:49166
+
+2016-01-19T08:09:04.099Z - error: stderr:INFO 01/19 08:09:04 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:42983
+
+2016-01-19T08:09:04.270Z - error: stderr:INFO 01/19 08:09:04 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:36125
+
+2016-01-19T08:09:04.504Z - error: stderr:INFO 01/19 08:09:04 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:34218
+
+2016-01-19T08:09:04.771Z - error: stderr:INFO 01/19 08:09:04 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:55290
+
+2016-01-19T08:09:05.236Z - error: stderr:INFO 01/19 08:09:05 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:50171
+
+2016-01-19T08:09:05.511Z - error: stderr:INFO 01/19 08:09:05 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:52033
+
+2016-01-19T08:09:05.797Z - error: stderr:INFO 01/19 08:09:05 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:38903
+
+2016-01-19T08:09:08.075Z - error: stderr:INFO 01/19 08:09:08 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:53444
+
+2016-01-19T08:09:08.650Z - error: stderr:INFO 01/19 08:09:08 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:34999
+
+2016-01-19T08:09:08.739Z - error: stderr:INFO 01/19 08:09:08 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:55111
+
+2016-01-19T08:09:09.637Z - error: stderr:INFO 01/19 08:09:09 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:57600
+
+2016-01-19T08:09:11.794Z - error: stderr:INFO 01/19 08:09:11 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:46423
+
+2016-01-19T08:09:13.635Z - error: stderr:INFO 01/19 08:09:13 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=36125]]
+
+2016-01-19T08:09:13.725Z - error: stderr:INFO 01/19 08:09:13 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:36125
+INFO 01/19 08:09:13 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=45348]]
+
+2016-01-19T08:09:13.826Z - error: stderr:INFO 01/19 08:09:13 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:45348
+INFO 01/19 08:09:13 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=53444]]
+
+2016-01-19T08:09:13.928Z - error: stderr:INFO 01/19 08:09:13 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:53444
+INFO 01/19 08:09:13 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=42983]]
+
+2016-01-19T08:09:14.029Z - error: stderr:INFO 01/19 08:09:14 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:42983
+
+2016-01-19T08:09:14.029Z - error: stderr:INFO 01/19 08:09:14 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=52033]]
+
+2016-01-19T08:09:14.130Z - error: stderr:INFO 01/19 08:09:14 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:52033
+INFO 01/19 08:09:14 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=49166]]
+
+2016-01-19T08:09:14.232Z - error: stderr:INFO 01/19 08:09:14 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:49166
+INFO 01/19 08:09:14 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=50171]]
+
+2016-01-19T08:09:14.333Z - error: stderr:INFO 01/19 08:09:14 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:50171
+INFO 01/19 08:09:14 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=34218]]
+
+2016-01-19T08:09:14.434Z - error: stderr:INFO 01/19 08:09:14 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:34218
+
+2016-01-19T08:09:14.434Z - error: stderr:INFO 01/19 08:09:14 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=46423]]
+
+2016-01-19T08:09:14.535Z - error: stderr:INFO 01/19 08:09:14 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:46423
+
+2016-01-19T08:09:14.536Z - error: stderr:INFO 01/19 08:09:14 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=38903]]
+
+2016-01-19T08:09:14.643Z - error: stderr:INFO 01/19 08:09:14 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:38903
+INFO 01/19 08:09:14 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=34999]]
+
+2016-01-19T08:09:14.744Z - error: stderr:INFO 01/19 08:09:14 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:34999
+INFO 01/19 08:09:14 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=55290]]
+
+2016-01-19T08:09:14.845Z - error: stderr:INFO 01/19 08:09:14 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:55290
+INFO 01/19 08:09:14 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=57600]]
+
+2016-01-19T08:09:14.946Z - error: stderr:INFO 01/19 08:09:14 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:57600
+
+2016-01-19T08:09:14.946Z - error: stderr:INFO 01/19 08:09:14 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=55111]]
+
+2016-01-19T08:09:15.052Z - error: stderr:INFO 01/19 08:09:15 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:55111
+INFO 01/19 08:09:15 n.l.b.p.j.u.Threade~ - Stopping Acceptor ServerSocket[addr=/0.0.0.0,localport=2000]
+
+2016-01-19T08:09:15.159Z - error: stderr:INFO 01/19 08:09:15 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:2000
+
+2016-01-19T08:09:15.610Z - error: stderr:INFO 01/19 08:09:15 n.l.b.p.j.u.Contain~ - Stopped HttpContext[/,/]
+INFO 01/19 08:09:15 n.l.b.p.j.u.Contain~ - Stopped net.lightbody.bmp.proxy.jetty.jetty.Server@620f8b19
+
+2016-01-19T08:09:15.626Z - error: stderr:INFO 01/19 08:09:15 n.l.b.p.j.h.HttpSer~ - Version Jetty/2.0.0
+
+2016-01-19T08:09:15.626Z - error: stderr:INFO 01/19 08:09:15 n.l.b.p.j.u.Contain~ - Started HttpContext[/,/]
+
+2016-01-19T08:09:15.627Z - error: stderr:INFO 01/19 08:09:15 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:2000
+
+2016-01-19T08:09:15.627Z - error: stderr:INFO 01/19 08:09:15 n.l.b.p.j.u.Contain~ - Started net.lightbody.bmp.proxy.jetty.jetty.Server@3a839c8c
+
+2016-01-19T08:09:17.658Z - error: stderr:INFO 01/19 08:09:17 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:59762
+
+2016-01-19T08:09:17.822Z - error: stderr:INFO 01/19 08:09:17 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:47175
+
+2016-01-19T08:09:17.982Z - error: stderr:INFO 01/19 08:09:17 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:44209
+
+2016-01-19T08:09:18.383Z - error: stderr:INFO 01/19 08:09:18 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:42402
+
+2016-01-19T08:09:19.811Z - error: stderr:INFO 01/19 08:09:19 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:60703
+
+2016-01-19T08:09:20.074Z - error: stderr:INFO 01/19 08:09:20 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:33463
+
+2016-01-19T08:09:20.297Z - error: stderr:INFO 01/19 08:09:20 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:55955
+
+2016-01-19T08:09:22.672Z - error: stderr:INFO 01/19 08:09:22 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:49845
+
+2016-01-19T08:09:23.177Z - error: stderr:INFO 01/19 08:09:23 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:54878
+
+2016-01-19T08:09:23.625Z - error: stderr:INFO 01/19 08:09:23 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:51984
+
+2016-01-19T08:09:23.903Z - error: stderr:INFO 01/19 08:09:23 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:47303
+
+2016-01-19T08:09:27.603Z - error: stderr:INFO 01/19 08:09:27 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=47303]]
+
+2016-01-19T08:09:27.704Z - error: stderr:INFO 01/19 08:09:27 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:47303
+INFO 01/19 08:09:27 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=51984]]
+
+2016-01-19T08:09:27.805Z - error: stderr:INFO 01/19 08:09:27 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:51984
+INFO 01/19 08:09:27 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=47175]]
+
+2016-01-19T08:09:27.907Z - error: stderr:INFO 01/19 08:09:27 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:47175
+INFO 01/19 08:09:27 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=59762]]
+
+2016-01-19T08:09:28.009Z - error: stderr:INFO 01/19 08:09:28 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:59762
+INFO 01/19 08:09:28 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=42402]]
+
+2016-01-19T08:09:28.110Z - error: stderr:INFO 01/19 08:09:28 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:42402
+INFO 01/19 08:09:28 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=54878]]
+
+2016-01-19T08:09:28.211Z - error: stderr:INFO 01/19 08:09:28 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:54878
+INFO 01/19 08:09:28 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=49845]]
+
+2016-01-19T08:09:28.312Z - error: stderr:INFO 01/19 08:09:28 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:49845
+INFO 01/19 08:09:28 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=55955]]
+
+2016-01-19T08:09:28.413Z - error: stderr:INFO 01/19 08:09:28 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:55955
+INFO 01/19 08:09:28 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=60703]]
+
+2016-01-19T08:09:28.515Z - error: stderr:INFO 01/19 08:09:28 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:60703
+INFO 01/19 08:09:28 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=44209]]
+
+2016-01-19T08:09:28.616Z - error: stderr:INFO 01/19 08:09:28 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:44209
+INFO 01/19 08:09:28 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=33463]]
+
+2016-01-19T08:09:28.721Z - error: stderr:INFO 01/19 08:09:28 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:33463
+INFO 01/19 08:09:28 n.l.b.p.j.u.Threade~ - Stopping Acceptor ServerSocket[addr=/0.0.0.0,localport=2000]
+
+2016-01-19T08:09:28.833Z - error: stderr:INFO 01/19 08:09:28 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:2000
+
+2016-01-19T08:09:29.040Z - error: stderr:INFO 01/19 08:09:29 n.l.b.p.j.u.Contain~ - Stopped HttpContext[/,/]
+INFO 01/19 08:09:29 n.l.b.p.j.u.Contain~ - Stopped net.lightbody.bmp.proxy.jetty.jetty.Server@3a839c8c
+
+2016-01-19T08:09:29.061Z - error: stderr:INFO 01/19 08:09:29 n.l.b.p.j.h.HttpSer~ - Version Jetty/2.0.0
+INFO 01/19 08:09:29 n.l.b.p.j.u.Contain~ - Started HttpContext[/,/]
+
+2016-01-19T08:09:29.062Z - error: stderr:INFO 01/19 08:09:29 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:2000
+INFO 01/19 08:09:29 n.l.b.p.j.u.Contain~ - Started net.lightbody.bmp.proxy.jetty.jetty.Server@7034317d
+
+2016-01-19T08:09:30.788Z - error: stderr:INFO 01/19 08:09:30 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:45990
+
+2016-01-19T08:09:31.015Z - error: stderr:INFO 01/19 08:09:31 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:51311
+
+2016-01-19T08:09:31.190Z - error: stderr:INFO 01/19 08:09:31 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:48484
+
+2016-01-19T08:09:31.392Z - error: stderr:INFO 01/19 08:09:31 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:60831
+
+2016-01-19T08:09:31.548Z - error: stderr:INFO 01/19 08:09:31 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:41467
+
+2016-01-19T08:09:31.707Z - error: stderr:INFO 01/19 08:09:31 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:44497
+
+2016-01-19T08:09:32.245Z - error: stderr:INFO 01/19 08:09:32 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:57880
+
+2016-01-19T08:09:32.523Z - error: stderr:INFO 01/19 08:09:32 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:38356
+
+2016-01-19T08:09:32.706Z - error: stderr:INFO 01/19 08:09:32 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:42731
+
+2016-01-19T08:09:34.938Z - error: stderr:INFO 01/19 08:09:34 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:40801
+
+2016-01-19T08:09:35.140Z - error: stderr:INFO 01/19 08:09:35 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:54931
+
+2016-01-19T08:09:35.600Z - error: stderr:INFO 01/19 08:09:35 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:34539
+
+2016-01-19T08:09:36.034Z - error: stderr:INFO 01/19 08:09:36 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:50321
+
+2016-01-19T08:09:36.938Z - error: stderr:INFO 01/19 08:09:36 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:35913
+
+2016-01-19T08:09:38.885Z - error: stderr:INFO 01/19 08:09:38 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:58874
+
+2016-01-19T08:09:41.317Z - error: stderr:INFO 01/19 08:09:41 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=42731]]
+
+2016-01-19T08:09:41.418Z - error: stderr:INFO 01/19 08:09:41 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:42731
+
+2016-01-19T08:09:41.418Z - error: stderr:INFO 01/19 08:09:41 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=58874]]
+
+2016-01-19T08:09:41.520Z - error: stderr:INFO 01/19 08:09:41 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:58874
+
+2016-01-19T08:09:41.520Z - error: stderr:INFO 01/19 08:09:41 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=35913]]
+
+2016-01-19T08:09:41.621Z - error: stderr:INFO 01/19 08:09:41 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:35913
+
+2016-01-19T08:09:41.621Z - error: stderr:INFO 01/19 08:09:41 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=41467]]
+
+2016-01-19T08:09:41.722Z - error: stderr:INFO 01/19 08:09:41 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:41467
+
+2016-01-19T08:09:41.722Z - error: stderr:INFO 01/19 08:09:41 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=48484]]
+
+2016-01-19T08:09:41.826Z - error: stderr:INFO 01/19 08:09:41 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:48484
+
+2016-01-19T08:09:41.827Z - error: stderr:INFO 01/19 08:09:41 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=38356]]
+
+2016-01-19T08:09:41.928Z - error: stderr:INFO 01/19 08:09:41 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:38356
+
+2016-01-19T08:09:41.928Z - error: stderr:INFO 01/19 08:09:41 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=34539]]
+
+2016-01-19T08:09:42.030Z - error: stderr:INFO 01/19 08:09:42 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:34539
+
+2016-01-19T08:09:42.030Z - error: stderr:INFO 01/19 08:09:42 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=44497]]
+
+2016-01-19T08:09:42.131Z - error: stderr:INFO 01/19 08:09:42 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:44497
+
+2016-01-19T08:09:42.132Z - error: stderr:INFO 01/19 08:09:42 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=45990]]
+
+2016-01-19T08:09:42.233Z - error: stderr:INFO 01/19 08:09:42 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:45990
+
+2016-01-19T08:09:42.233Z - error: stderr:INFO 01/19 08:09:42 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=54931]]
+
+2016-01-19T08:09:42.335Z - error: stderr:INFO 01/19 08:09:42 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:54931
+
+2016-01-19T08:09:42.335Z - error: stderr:INFO 01/19 08:09:42 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=40801]]
+
+2016-01-19T08:09:42.437Z - error: stderr:INFO 01/19 08:09:42 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:40801
+
+2016-01-19T08:09:42.437Z - error: stderr:INFO 01/19 08:09:42 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=60831]]
+
+2016-01-19T08:09:42.539Z - error: stderr:INFO 01/19 08:09:42 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:60831
+
+2016-01-19T08:09:42.539Z - error: stderr:INFO 01/19 08:09:42 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=50321]]
+
+2016-01-19T08:09:42.640Z - error: stderr:INFO 01/19 08:09:42 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:50321
+
+2016-01-19T08:09:42.641Z - error: stderr:INFO 01/19 08:09:42 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=57880]]
+
+2016-01-19T08:09:42.742Z - error: stderr:INFO 01/19 08:09:42 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:57880
+
+2016-01-19T08:09:42.743Z - error: stderr:INFO 01/19 08:09:42 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=51311]]
+
+2016-01-19T08:09:42.844Z - error: stderr:INFO 01/19 08:09:42 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:51311
+
+2016-01-19T08:09:42.851Z - error: stderr:INFO 01/19 08:09:42 n.l.b.p.j.u.Threade~ - Stopping Acceptor ServerSocket[addr=/0.0.0.0,localport=2000]
+
+2016-01-19T08:09:42.976Z - error: stderr:INFO 01/19 08:09:42 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:2000
+
+2016-01-19T08:09:43.290Z - error: stderr:INFO 01/19 08:09:43 n.l.b.p.j.u.Contain~ - Stopped HttpContext[/,/]
+INFO 01/19 08:09:43 n.l.b.p.j.u.Contain~ - Stopped net.lightbody.bmp.proxy.jetty.jetty.Server@7034317d
+
+2016-01-19T08:09:43.322Z - info: Stopped proxy process.
+2016-01-19T08:11:01.365Z - info: stdout:Unable to find conf/bmp-logging.properties. Using default logging configuration.
+2016-01-19T08:11:01.365Z - info: stdout:
+
+2016-01-19T08:11:01.870Z - error: stderr:INFO 01/19 08:11:01 n.l.b.p.Main         - Starting BrowserMob Proxy version 2.0.0
+
+2016-01-19T08:11:01.909Z - error: stderr:INFO 01/19 08:11:01 o.e.j.u.log          - jetty-2.0.0
+
+2016-01-19T08:11:01.955Z - error: stderr:INFO 01/19 08:11:01 o.e.j.u.log          - started o.e.j.s.ServletContextHandler{/,null}
+
+2016-01-19T08:11:03.136Z - error: stderr:INFO 01/19 08:11:03 o.e.j.u.log          - Started SelectChannelConnector@0.0.0.0:2001
+
+2016-01-19T08:11:03.775Z - error: stderr:INFO 01/19 08:11:03 n.l.b.p.j.h.HttpSer~ - Version Jetty/2.0.0
+INFO 01/19 08:11:03 n.l.b.p.j.u.Contain~ - Started HttpContext[/,/]
+
+2016-01-19T08:11:03.959Z - error: stderr:INFO 01/19 08:11:03 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:2000
+INFO 01/19 08:11:03 n.l.b.p.j.u.Contain~ - Started net.lightbody.bmp.proxy.jetty.jetty.Server@19d9ba9
+
+2016-01-19T08:11:08.099Z - error: stderr:INFO 01/19 08:11:08 n.l.b.p.j.u.Credent~ - Checking Resource aliases
+
+2016-01-19T08:11:09.492Z - error: stderr:INFO 01/19 08:11:09 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:46789
+
+2016-01-19T08:11:10.305Z - error: stderr:INFO 01/19 08:11:10 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:36144
+
+2016-01-19T08:11:11.316Z - error: stderr:INFO 01/19 08:11:11 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:48382
+
+2016-01-19T08:11:11.758Z - error: stderr:INFO 01/19 08:11:11 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:57868
+
+2016-01-19T08:11:12.190Z - error: stderr:INFO 01/19 08:11:12 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:38353
+
+2016-01-19T08:11:12.514Z - error: stderr:INFO 01/19 08:11:12 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:49609
+
+2016-01-19T08:11:13.015Z - error: stderr:INFO 01/19 08:11:13 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:56045
+
+2016-01-19T08:11:13.365Z - error: stderr:INFO 01/19 08:11:13 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:34055
+
+2016-01-19T08:11:14.341Z - error: stderr:INFO 01/19 08:11:14 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:54079
+
+2016-01-19T08:11:14.592Z - error: stderr:INFO 01/19 08:11:14 n.l.b.p.j.h.SocketL~ - Started SocketListener on 0.0.0.0:33116
+
+2016-01-19T08:11:25.631Z - error: stderr:WARN 01/19 08:11:25 n.l.b.p.BrowserMobP~ - IOException while trying to report an HTTP error
+java.io.IOException: closed
+	at net.lightbody.bmp.proxy.jetty.http.HttpOutputStream.prepareOutput(HttpOutputStream.java:444)
+	at net.lightbody.bmp.proxy.jetty.http.HttpOutputStream.write(HttpOutputStream.java:413)
+	at net.lightbody.bmp.proxy.jetty.http.HttpOutputStream.write(HttpOutputStream.java:406)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler.reportError(BrowserMobProxyHandler.java:312)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler.access$200(BrowserMobProxyHandler.java:26)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler$1.reportError(BrowserMobProxyHandler.java:265)
+	at net.lightbody.bmp.proxy.http.BrowserMobHttpClient.execute(BrowserMobHttpClient.java:832)
+	at net.lightbody.bmp.proxy.http.BrowserMobHttpClient.execute(BrowserMobHttpClient.java:591)
+	at net.lightbody.bmp.proxy.http.BrowserMobHttpRequest.execute(BrowserMobHttpRequest.java:149)
+	at net.lightbody.bmp.proxy.BrowserMobProxyHandler.proxyPlainTextRequest(BrowserMobProxyHandler.java:269)
+	at net.lightbody.bmp.proxy.selenium.SeleniumProxyHandler.handle(SeleniumProxyHandler.java:185)
+	at net.lightbody.bmp.proxy.jetty.http.HttpContext.handle(HttpContext.java:1509)
+	at net.lightbody.bmp.proxy.jetty.http.HttpContext.handle(HttpContext.java:1461)
+	at net.lightbody.bmp.proxy.jetty.http.HttpServer.service(HttpServer.java:892)
+	at net.lightbody.bmp.proxy.jetty.http.HttpConnection.service(HttpConnection.java:815)
+	at net.lightbody.bmp.proxy.jetty.http.HttpConnection.handleNext(HttpConnection.java:981)
+	at net.lightbody.bmp.proxy.jetty.http.HttpConnection.handle(HttpConnection.java:832)
+	at net.lightbody.bmp.proxy.jetty.http.SocketListener.handleConnection(SocketListener.java:245)
+	at net.lightbody.bmp.proxy.jetty.util.ThreadedServer.handle(ThreadedServer.java:357)
+	at net.lightbody.bmp.proxy.jetty.util.ThreadPool$PoolThread.run(ThreadPool.java:534)
+INFO 01/19 08:11:25 n.l.b.p.h.BrowserMo~ - EOFException(java.net.SocketException: Broken pipe) when requesting http://visagehall.ru/media/favicon/default/xvh_logo_symbol.png.pagespeed.ic.D9XuTQfF8i.png
+
+2016-01-19T08:11:25.644Z - error: stderr:INFO 01/19 08:11:25 n.l.b.p.h.BrowserMo~ - org.apache.http.NoHttpResponseException: cdn.retailrocket.ru:80 failed to respond when requesting http://cdn.retailrocket.ru/Content/img/close_pop.png
+
+2016-01-19T08:11:30.201Z - error: stderr:INFO 01/19 08:11:30 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=56045]]
+
+2016-01-19T08:11:30.302Z - error: stderr:INFO 01/19 08:11:30 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:56045
+
+2016-01-19T08:11:30.302Z - error: stderr:INFO 01/19 08:11:30 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=57868]]
+
+2016-01-19T08:11:30.403Z - error: stderr:INFO 01/19 08:11:30 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:57868
+
+2016-01-19T08:11:30.404Z - error: stderr:INFO 01/19 08:11:30 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=38353]]
+
+2016-01-19T08:11:30.508Z - error: stderr:INFO 01/19 08:11:30 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:38353
+
+2016-01-19T08:11:30.508Z - error: stderr:INFO 01/19 08:11:30 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=34055]]
+
+2016-01-19T08:11:30.609Z - error: stderr:INFO 01/19 08:11:30 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:34055
+
+2016-01-19T08:11:30.609Z - error: stderr:INFO 01/19 08:11:30 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=46789]]
+
+2016-01-19T08:11:30.710Z - error: stderr:INFO 01/19 08:11:30 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:46789
+
+2016-01-19T08:11:30.711Z - error: stderr:INFO 01/19 08:11:30 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=33116]]
+
+2016-01-19T08:11:30.813Z - error: stderr:INFO 01/19 08:11:30 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:33116
+
+2016-01-19T08:11:30.813Z - error: stderr:INFO 01/19 08:11:30 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=54079]]
+
+2016-01-19T08:11:30.914Z - error: stderr:INFO 01/19 08:11:30 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:54079
+
+2016-01-19T08:11:30.915Z - error: stderr:INFO 01/19 08:11:30 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=49609]]
+
+2016-01-19T08:11:31.016Z - error: stderr:INFO 01/19 08:11:31 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:49609
+
+2016-01-19T08:11:31.017Z - error: stderr:INFO 01/19 08:11:31 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=48382]]
+
+2016-01-19T08:11:31.118Z - error: stderr:INFO 01/19 08:11:31 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:48382
+
+2016-01-19T08:11:31.119Z - error: stderr:INFO 01/19 08:11:31 n.l.b.p.j.u.Threade~ - Stopping Acceptor [SSL: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=36144]]
+
+2016-01-19T08:11:31.220Z - error: stderr:INFO 01/19 08:11:31 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:36144
+
+2016-01-19T08:11:31.228Z - error: stderr:INFO 01/19 08:11:31 n.l.b.p.j.u.Threade~ - Stopping Acceptor ServerSocket[addr=/0.0.0.0,localport=2000]
+
+2016-01-19T08:11:31.331Z - error: stderr:INFO 01/19 08:11:31 n.l.b.p.j.h.SocketL~ - Stopped SocketListener on 0.0.0.0:2000
+
+2016-01-19T08:11:31.885Z - error: stderr:INFO 01/19 08:11:31 n.l.b.p.j.u.Contain~ - Stopped HttpContext[/,/]
+
+2016-01-19T08:11:31.886Z - error: stderr:INFO 01/19 08:11:31 n.l.b.p.j.u.Contain~ - Stopped net.lightbody.bmp.proxy.jetty.jetty.Server@19d9ba9
+
+2016-01-19T08:11:31.901Z - info: Stopped proxy process.

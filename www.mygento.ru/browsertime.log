@@ -1,0 +1,67 @@
+2016-01-19T07:58:50.550Z - info: Starting proxy on port 2001, will wait at most 15000 ms
+2016-01-19T07:58:54.492Z - info: Fetching http://www.mygento.ru/ (1 of 1)
+2016-01-19T07:59:04.227Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/www.mygento.ru/data/har/firefox/www_mygento_ru.har
+2016-01-19T07:59:04.230Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/www.mygento.ru/data/browsertime/firefox/www_mygento_ru-browsertime.json
+2016-01-19T07:59:05.217Z - info: Fetching http://www.mygento.ru/portfolio/ (1 of 1)
+2016-01-19T07:59:12.292Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/www.mygento.ru/data/har/firefox/www_mygento_ru-portfolio-.har
+2016-01-19T07:59:12.295Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/www.mygento.ru/data/browsertime/firefox/www_mygento_ru-portfolio--browsertime.json
+2016-01-19T07:59:13.182Z - info: Fetching http://www.mygento.ru/modules/ (1 of 1)
+2016-01-19T07:59:23.928Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/www.mygento.ru/data/har/firefox/www_mygento_ru-modules-.har
+2016-01-19T07:59:23.930Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/www.mygento.ru/data/browsertime/firefox/www_mygento_ru-modules--browsertime.json
+2016-01-19T07:59:24.927Z - info: Fetching http://www.mygento.ru/tech/platform/ (1 of 1)
+2016-01-19T07:59:31.528Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/www.mygento.ru/data/har/firefox/www_mygento_ru-tech-platform-.har
+2016-01-19T07:59:31.531Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/www.mygento.ru/data/browsertime/firefox/www_mygento_ru-tech-platform--browsertime.json
+2016-01-19T07:59:32.097Z - info: Fetching http://www.mygento.ru/your-request (1 of 1)
+2016-01-19T07:59:38.616Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/www.mygento.ru/data/har/firefox/www_mygento_ru-your-request.har
+2016-01-19T07:59:38.618Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/www.mygento.ru/data/browsertime/firefox/www_mygento_ru-your-request-browsertime.json
+2016-01-19T07:59:39.131Z - info: Fetching http://www.mygento.ru/contacts (1 of 1)
+2016-01-19T07:59:45.896Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/www.mygento.ru/data/har/firefox/www_mygento_ru-contacts.har
+2016-01-19T07:59:45.898Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/www.mygento.ru/data/browsertime/firefox/www_mygento_ru-contacts-browsertime.json
+2016-01-19T07:59:47.116Z - info: Stopping proxy
+2016-01-19T08:02:36.485Z - info: Starting proxy on port 2001, will wait at most 15000 ms
+2016-01-19T08:02:39.464Z - info: Fetching http://daydreaming.ru/ (1 of 1)
+2016-01-19T08:03:04.005Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/daydreaming.ru/data/har/firefox/daydreaming_ru.har
+2016-01-19T08:03:04.007Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/daydreaming.ru/data/browsertime/firefox/daydreaming_ru-browsertime.json
+2016-01-19T08:03:05.511Z - info: Fetching http://daydreaming.ru/what-s-new (1 of 1)
+2016-01-19T08:03:27.614Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/daydreaming.ru/data/har/firefox/daydreaming_ru-what-s-new.har
+2016-01-19T08:03:27.616Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/daydreaming.ru/data/browsertime/firefox/daydreaming_ru-what-s-new-browsertime.json
+2016-01-19T08:03:29.128Z - info: Fetching http://daydreaming.ru/manufacturer (1 of 1)
+2016-01-19T08:03:48.293Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/daydreaming.ru/data/har/firefox/daydreaming_ru-manufacturer.har
+2016-01-19T08:03:48.295Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/daydreaming.ru/data/browsertime/firefox/daydreaming_ru-manufacturer-browsertime.json
+2016-01-19T08:03:49.437Z - info: Fetching http://daydreaming.ru/clothing (1 of 1)
+2016-01-19T08:04:12.463Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/daydreaming.ru/data/har/firefox/daydreaming_ru-clothing.har
+2016-01-19T08:04:12.465Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/daydreaming.ru/data/browsertime/firefox/daydreaming_ru-clothing-browsertime.json
+2016-01-19T08:04:14.308Z - info: Fetching http://daydreaming.ru/boy-s (1 of 1)
+2016-01-19T08:04:38.018Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/daydreaming.ru/data/har/firefox/daydreaming_ru-boy-s.har
+2016-01-19T08:04:38.020Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/daydreaming.ru/data/browsertime/firefox/daydreaming_ru-boy-s-browsertime.json
+2016-01-19T08:04:39.528Z - info: Fetching http://daydreaming.ru/newborn (1 of 1)
+2016-01-19T08:05:13.702Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/daydreaming.ru/data/har/firefox/daydreaming_ru-newborn.har
+2016-01-19T08:05:13.704Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/daydreaming.ru/data/browsertime/firefox/daydreaming_ru-newborn-browsertime.json
+2016-01-19T08:05:15.352Z - info: Fetching http://daydreaming.ru/books (1 of 1)
+2016-01-19T08:05:35.625Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/daydreaming.ru/data/har/firefox/daydreaming_ru-books.har
+2016-01-19T08:05:35.627Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/daydreaming.ru/data/browsertime/firefox/daydreaming_ru-books-browsertime.json
+2016-01-19T08:05:36.873Z - info: Stopping proxy
+2016-01-19T08:06:51.180Z - info: Starting proxy on port 2001, will wait at most 15000 ms
+2016-01-19T08:06:54.943Z - info: Fetching http://happia.ru/ (1 of 1)
+2016-01-19T08:07:10.915Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/happia.ru/data/har/firefox/happia_ru.har
+2016-01-19T08:07:10.918Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/happia.ru/data/browsertime/firefox/happia_ru-browsertime.json
+2016-01-19T08:07:12.984Z - info: Stopping proxy
+2016-01-19T08:08:39.085Z - info: Starting proxy on port 2001, will wait at most 15000 ms
+2016-01-19T08:08:43.542Z - info: Fetching http://www.elc-russia.ru (1 of 1)
+2016-01-19T08:09:00.017Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/www.elc-russia.ru/data/har/firefox/www_elc-russia_ru.har
+2016-01-19T08:09:00.035Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/www.elc-russia.ru/data/browsertime/firefox/www_elc-russia_ru-browsertime.json
+2016-01-19T08:09:01.922Z - info: Fetching http://www.elc-russia.ru/lets-pretend-together.html (1 of 1)
+2016-01-19T08:09:13.546Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/www.elc-russia.ru/data/har/firefox/www_elc-russia_ru-lets-pretend-together.html.har
+2016-01-19T08:09:13.547Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/www.elc-russia.ru/data/browsertime/firefox/www_elc-russia_ru-lets-pretend-together.html-browsertime.json
+2016-01-19T08:09:15.637Z - info: Fetching http://www.elc-russia.ru/lets-pretend-together/houses-and-castles.html (1 of 1)
+2016-01-19T08:09:27.542Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/www.elc-russia.ru/data/har/firefox/www_elc-russia_ru-lets-pretend-together-houses-and-castles.html.har
+2016-01-19T08:09:27.545Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/www.elc-russia.ru/data/browsertime/firefox/www_elc-russia_ru-lets-pretend-together-houses-and-castles.html-browsertime.json
+2016-01-19T08:09:29.070Z - info: Fetching http://www.elc-russia.ru/igrovaja-ploschadka-serija-rozovyj-kukol-nyj-dom-1.html (1 of 1)
+2016-01-19T08:09:41.158Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/www.elc-russia.ru/data/har/firefox/www_elc-russia_ru-igrovaja-ploschadka-serija-rozovyj-kukol-nyj-dom-1.html.har
+2016-01-19T08:09:41.161Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/www.elc-russia.ru/data/browsertime/firefox/www_elc-russia_ru-igrovaja-ploschadka-serija-rozovyj-kukol-nyj-dom-1.html-browsertime.json
+2016-01-19T08:09:43.322Z - info: Stopping proxy
+2016-01-19T08:11:01.253Z - info: Starting proxy on port 2001, will wait at most 15000 ms
+2016-01-19T08:11:05.451Z - info: Fetching http://visagehall.ru/ (1 of 1)
+2016-01-19T08:11:30.000Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/visagehall.ru/data/har/firefox/visagehall_ru.har
+2016-01-19T08:11:30.002Z - info: Storing /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/visagehall.ru/data/browsertime/firefox/visagehall_ru-browsertime.json
+2016-01-19T08:11:31.900Z - info: Stopping proxy

@@ -1,0 +1,222 @@
+2016-01-19T07:58:14.698Z - info: [sitespeed] OS: 'linux 3.13.0-40-generic', Node.js: 'v0.10.41', sitespeed.io: '3.11.3', PhantomJS: '1.9.8', java: '1.7.0_76', browsertime: '0.12.2'
+2016-01-19T07:58:14.700Z - info: [sitespeed] Analyze 5 sites
+2016-01-19T07:58:14.737Z - info: [sitespeed] Will analyze 6 pages
+2016-01-19T07:58:14.738Z - info: [sitespeed] Running YSlow for http://www.mygento.ru/ [phantomjs]
+2016-01-19T07:58:14.741Z - info: [sitespeed] Running YSlow for http://www.mygento.ru/portfolio/ [phantomjs]
+2016-01-19T07:58:14.744Z - info: [sitespeed] Running YSlow for http://www.mygento.ru/modules/ [phantomjs]
+2016-01-19T07:58:14.759Z - info: [sitespeed] Running YSlow for http://www.mygento.ru/tech/platform/ [phantomjs]
+2016-01-19T07:58:14.772Z - info: [sitespeed] Running YSlow for http://www.mygento.ru/your-request [phantomjs]
+2016-01-19T07:58:22.026Z - info: [sitespeed] Running YSlow for http://www.mygento.ru/contacts [phantomjs]
+2016-01-19T07:58:45.350Z - info: [sitespeed] Running Google Page Speed Insights for http://www.mygento.ru/
+2016-01-19T07:58:45.358Z - info: [sitespeed] Running Google Page Speed Insights for http://www.mygento.ru/portfolio/
+2016-01-19T07:58:45.360Z - info: [sitespeed] Running Google Page Speed Insights for http://www.mygento.ru/modules/
+2016-01-19T07:58:45.360Z - info: [sitespeed] Running Google Page Speed Insights for http://www.mygento.ru/tech/platform/
+2016-01-19T07:58:45.361Z - info: [sitespeed] Running Google Page Speed Insights for http://www.mygento.ru/your-request
+2016-01-19T07:58:47.973Z - info: [sitespeed] Running Google Page Speed Insights for http://www.mygento.ru/contacts
+2016-01-19T07:58:52.663Z - info: [sitespeed] Queueing browsertime for http://www.mygento.ru/ firefox
+2016-01-19T07:58:52.664Z - info: [sitespeed] Queueing browsertime for http://www.mygento.ru/portfolio/ firefox
+2016-01-19T07:58:52.664Z - info: [sitespeed] Queueing browsertime for http://www.mygento.ru/modules/ firefox
+2016-01-19T07:58:52.665Z - info: [sitespeed] Queueing browsertime for http://www.mygento.ru/tech/platform/ firefox
+2016-01-19T07:58:52.665Z - info: [sitespeed] Queueing browsertime for http://www.mygento.ru/your-request firefox
+2016-01-19T07:58:52.666Z - info: [sitespeed] Queueing browsertime for http://www.mygento.ru/contacts firefox
+2016-01-19T07:58:52.667Z - info: [sitespeed] Running browsertime for firefox http://www.mygento.ru/
+2016-01-19T07:59:05.189Z - info: [sitespeed] Running browsertime for firefox http://www.mygento.ru/portfolio/
+2016-01-19T07:59:13.161Z - info: [sitespeed] Running browsertime for firefox http://www.mygento.ru/modules/
+2016-01-19T07:59:24.913Z - info: [sitespeed] Running browsertime for firefox http://www.mygento.ru/tech/platform/
+2016-01-19T07:59:32.055Z - info: [sitespeed] Running browsertime for firefox http://www.mygento.ru/your-request
+2016-01-19T07:59:39.105Z - info: [sitespeed] Running browsertime for firefox http://www.mygento.ru/contacts
+2016-01-19T07:59:47.118Z - info: [sitespeed] Taking screenshot for http://www.mygento.ru/
+2016-01-19T07:59:47.125Z - info: [sitespeed] Taking screenshot for http://www.mygento.ru/portfolio/
+2016-01-19T07:59:47.129Z - info: [sitespeed] Taking screenshot for http://www.mygento.ru/modules/
+2016-01-19T07:59:47.141Z - info: [sitespeed] Taking screenshot for http://www.mygento.ru/tech/platform/
+2016-01-19T07:59:47.166Z - info: [sitespeed] Taking screenshot for http://www.mygento.ru/your-request
+2016-01-19T07:59:49.331Z - info: [sitespeed] Taking screenshot for http://www.mygento.ru/contacts
+2016-01-19T07:59:54.941Z - info: [sitespeed] Done analyzing urls
+2016-01-19T07:59:55.322Z - info: [sitespeed] Wrote file assets.html
+2016-01-19T07:59:55.322Z - info: [sitespeed] Wrote file domains.html
+2016-01-19T07:59:55.323Z - info: [sitespeed] Wrote file errors.html
+2016-01-19T07:59:55.323Z - info: [sitespeed] Wrote file hotlist.html
+2016-01-19T07:59:55.323Z - info: [sitespeed] Wrote file pages.html
+2016-01-19T07:59:55.323Z - info: [sitespeed] Wrote file rules.html
+2016-01-19T07:59:55.323Z - info: [sitespeed] Wrote file screenshots.html
+2016-01-19T07:59:55.323Z - info: [sitespeed] Wrote file index.html
+2016-01-19T07:59:55.323Z - info: [sitespeed] Wrote file detailed-site-summary.html
+2016-01-19T07:59:55.323Z - info: [sitespeed] Wrote file www_mygento_ru-your-request.html
+2016-01-19T07:59:55.325Z - info: [sitespeed] Wrote file www_mygento_ru-tech-platform-.html
+2016-01-19T07:59:55.325Z - info: [sitespeed] Wrote file www_mygento_ru.html
+2016-01-19T07:59:55.325Z - info: [sitespeed] Wrote file www_mygento_ru-portfolio-.html
+2016-01-19T07:59:55.325Z - info: [sitespeed] Wrote file www_mygento_ru-contacts.html
+2016-01-19T07:59:55.325Z - info: [sitespeed] Wrote file www_mygento_ru-modules-.html
+2016-01-19T07:59:55.325Z - info: [sitespeed] Wrote file www_mygento_ru-your-request-0.html
+2016-01-19T07:59:55.329Z - info: [sitespeed] Wrote file www_mygento_ru-tech-platform--0.html
+2016-01-19T07:59:55.329Z - info: [sitespeed] Wrote file www_mygento_ru-0.html
+2016-01-19T07:59:55.329Z - info: [sitespeed] Wrote file www_mygento_ru-portfolio--0.html
+2016-01-19T07:59:55.329Z - info: [sitespeed] Wrote file www_mygento_ru-contacts-0.html
+2016-01-19T07:59:55.329Z - info: [sitespeed] Wrote file www_mygento_ru-modules--0.html
+2016-01-19T07:59:55.338Z - info: [sitespeed] Wrote results to /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/www.mygento.ru
+2016-01-19T07:59:55.341Z - info: [sitespeed] The analyze took 2 minutes (100 seconds)
+2016-01-19T07:59:55.341Z - info: [sitespeed] Finished with site http://www.mygento.ru/,http://www.mygento.ru/portfolio/,http://www.mygento.ru/modules/,http://www.mygento.ru/tech/platform/,http://www.mygento.ru/your-request,http://www.mygento.ru/contacts
+2016-01-19T07:59:55.344Z - info: [sitespeed] Will analyze 7 pages
+2016-01-19T07:59:55.344Z - info: [sitespeed] Running YSlow for http://daydreaming.ru/ [phantomjs]
+2016-01-19T07:59:55.350Z - info: [sitespeed] Running YSlow for http://daydreaming.ru/what-s-new [phantomjs]
+2016-01-19T07:59:55.356Z - info: [sitespeed] Running YSlow for http://daydreaming.ru/manufacturer [phantomjs]
+2016-01-19T07:59:55.366Z - info: [sitespeed] Running YSlow for http://daydreaming.ru/clothing [phantomjs]
+2016-01-19T07:59:55.380Z - info: [sitespeed] Running YSlow for http://daydreaming.ru/boy-s [phantomjs]
+2016-01-19T08:00:39.736Z - info: [sitespeed] Running YSlow for http://daydreaming.ru/newborn [phantomjs]
+2016-01-19T08:00:47.717Z - info: [sitespeed] Running YSlow for http://daydreaming.ru/books [phantomjs]
+2016-01-19T08:01:38.210Z - info: [sitespeed] Running Google Page Speed Insights for http://daydreaming.ru/
+2016-01-19T08:01:38.211Z - info: [sitespeed] Running Google Page Speed Insights for http://daydreaming.ru/what-s-new
+2016-01-19T08:01:38.212Z - info: [sitespeed] Running Google Page Speed Insights for http://daydreaming.ru/manufacturer
+2016-01-19T08:01:38.213Z - info: [sitespeed] Running Google Page Speed Insights for http://daydreaming.ru/clothing
+2016-01-19T08:01:38.213Z - info: [sitespeed] Running Google Page Speed Insights for http://daydreaming.ru/boy-s
+2016-01-19T08:02:03.901Z - error: [sitespeed] Error running gpsi for url http://daydreaming.ru/clothing ({ [Error: An error occurred while fetching or analyzing the page.] code: 500 })
+2016-01-19T08:02:03.902Z - error: [sitespeed] Error running gpsi: { [Error: An error occurred while fetching or analyzing the page.] code: 500 }
+2016-01-19T08:02:03.902Z - info: [sitespeed] Running Google Page Speed Insights for http://daydreaming.ru/newborn
+2016-01-19T08:02:07.313Z - error: [sitespeed] Error running gpsi for url http://daydreaming.ru/ ({ [Error: An error occurred while fetching or analyzing the page.] code: 500 })
+2016-01-19T08:02:07.313Z - error: [sitespeed] Error running gpsi: { [Error: An error occurred while fetching or analyzing the page.] code: 500 }
+2016-01-19T08:02:07.313Z - info: [sitespeed] Running Google Page Speed Insights for http://daydreaming.ru/books
+2016-01-19T08:02:11.393Z - error: [sitespeed] Error running gpsi for url http://daydreaming.ru/what-s-new ({ [Error: An error occurred while fetching or analyzing the page.] code: 500 })
+2016-01-19T08:02:11.393Z - error: [sitespeed] Error running gpsi: { [Error: An error occurred while fetching or analyzing the page.] code: 500 }
+2016-01-19T08:02:12.117Z - error: [sitespeed] Error running gpsi for url http://daydreaming.ru/boy-s ({ [Error: An error occurred while fetching or analyzing the page.] code: 500 })
+2016-01-19T08:02:12.118Z - error: [sitespeed] Error running gpsi: { [Error: An error occurred while fetching or analyzing the page.] code: 500 }
+2016-01-19T08:02:16.306Z - error: [sitespeed] Error running gpsi for url http://daydreaming.ru/manufacturer ({ [Error: An error occurred while fetching or analyzing the page.] code: 500 })
+2016-01-19T08:02:16.306Z - error: [sitespeed] Error running gpsi: { [Error: An error occurred while fetching or analyzing the page.] code: 500 }
+2016-01-19T08:02:34.284Z - error: [sitespeed] Error running gpsi for url http://daydreaming.ru/books ({ [Error: An error occurred while fetching or analyzing the page.] code: 500 })
+2016-01-19T08:02:34.284Z - error: [sitespeed] Error running gpsi: { [Error: An error occurred while fetching or analyzing the page.] code: 500 }
+2016-01-19T08:02:36.483Z - error: [sitespeed] Error running gpsi for url http://daydreaming.ru/newborn ({ [Error: An error occurred while fetching or analyzing the page.] code: 500 })
+2016-01-19T08:02:36.483Z - error: [sitespeed] Error running gpsi: { [Error: An error occurred while fetching or analyzing the page.] code: 500 }
+2016-01-19T08:02:38.025Z - info: [sitespeed] Queueing browsertime for http://daydreaming.ru/ firefox
+2016-01-19T08:02:38.025Z - info: [sitespeed] Queueing browsertime for http://daydreaming.ru/what-s-new firefox
+2016-01-19T08:02:38.026Z - info: [sitespeed] Queueing browsertime for http://daydreaming.ru/manufacturer firefox
+2016-01-19T08:02:38.026Z - info: [sitespeed] Queueing browsertime for http://daydreaming.ru/clothing firefox
+2016-01-19T08:02:38.026Z - info: [sitespeed] Queueing browsertime for http://daydreaming.ru/boy-s firefox
+2016-01-19T08:02:38.026Z - info: [sitespeed] Queueing browsertime for http://daydreaming.ru/newborn firefox
+2016-01-19T08:02:38.026Z - info: [sitespeed] Queueing browsertime for http://daydreaming.ru/books firefox
+2016-01-19T08:02:38.027Z - info: [sitespeed] Running browsertime for firefox http://daydreaming.ru/
+2016-01-19T08:03:05.496Z - info: [sitespeed] Running browsertime for firefox http://daydreaming.ru/what-s-new
+2016-01-19T08:03:29.109Z - info: [sitespeed] Running browsertime for firefox http://daydreaming.ru/manufacturer
+2016-01-19T08:03:49.419Z - info: [sitespeed] Running browsertime for firefox http://daydreaming.ru/clothing
+2016-01-19T08:04:14.269Z - info: [sitespeed] Running browsertime for firefox http://daydreaming.ru/boy-s
+2016-01-19T08:04:39.504Z - info: [sitespeed] Running browsertime for firefox http://daydreaming.ru/newborn
+2016-01-19T08:05:15.328Z - info: [sitespeed] Running browsertime for firefox http://daydreaming.ru/books
+2016-01-19T08:05:36.874Z - info: [sitespeed] Taking screenshot for http://daydreaming.ru/
+2016-01-19T08:05:36.880Z - info: [sitespeed] Taking screenshot for http://daydreaming.ru/what-s-new
+2016-01-19T08:05:36.883Z - info: [sitespeed] Taking screenshot for http://daydreaming.ru/manufacturer
+2016-01-19T08:05:36.896Z - info: [sitespeed] Taking screenshot for http://daydreaming.ru/clothing
+2016-01-19T08:05:36.915Z - info: [sitespeed] Taking screenshot for http://daydreaming.ru/boy-s
+2016-01-19T08:05:46.454Z - info: [sitespeed] Taking screenshot for http://daydreaming.ru/newborn
+2016-01-19T08:05:56.772Z - info: [sitespeed] Taking screenshot for http://daydreaming.ru/books
+2016-01-19T08:06:17.437Z - info: [sitespeed] Done analyzing urls
+2016-01-19T08:06:17.912Z - info: [sitespeed] Wrote file assets.html
+2016-01-19T08:06:17.913Z - info: [sitespeed] Wrote file domains.html
+2016-01-19T08:06:17.913Z - info: [sitespeed] Wrote file errors.html
+2016-01-19T08:06:17.913Z - info: [sitespeed] Wrote file hotlist.html
+2016-01-19T08:06:17.913Z - info: [sitespeed] Wrote file pages.html
+2016-01-19T08:06:17.913Z - info: [sitespeed] Wrote file rules.html
+2016-01-19T08:06:17.913Z - info: [sitespeed] Wrote file screenshots.html
+2016-01-19T08:06:17.913Z - info: [sitespeed] Wrote file index.html
+2016-01-19T08:06:17.913Z - info: [sitespeed] Wrote file detailed-site-summary.html
+2016-01-19T08:06:17.914Z - info: [sitespeed] Wrote file daydreaming_ru-manufacturer.html
+2016-01-19T08:06:17.916Z - info: [sitespeed] Wrote file daydreaming_ru-clothing.html
+2016-01-19T08:06:17.917Z - info: [sitespeed] Wrote file daydreaming_ru-what-s-new.html
+2016-01-19T08:06:17.917Z - info: [sitespeed] Wrote file daydreaming_ru-boy-s.html
+2016-01-19T08:06:17.917Z - info: [sitespeed] Wrote file daydreaming_ru.html
+2016-01-19T08:06:17.917Z - info: [sitespeed] Wrote file daydreaming_ru-books.html
+2016-01-19T08:06:17.917Z - info: [sitespeed] Wrote file daydreaming_ru-newborn.html
+2016-01-19T08:06:17.918Z - info: [sitespeed] Wrote file daydreaming_ru-manufacturer-0.html
+2016-01-19T08:06:17.933Z - info: [sitespeed] Wrote file daydreaming_ru-clothing-0.html
+2016-01-19T08:06:17.933Z - info: [sitespeed] Wrote file daydreaming_ru-what-s-new-0.html
+2016-01-19T08:06:17.933Z - info: [sitespeed] Wrote file daydreaming_ru-boy-s-0.html
+2016-01-19T08:06:17.933Z - info: [sitespeed] Wrote file daydreaming_ru-0.html
+2016-01-19T08:06:17.933Z - info: [sitespeed] Wrote file daydreaming_ru-books-0.html
+2016-01-19T08:06:17.934Z - info: [sitespeed] Wrote file daydreaming_ru-newborn-0.html
+2016-01-19T08:06:17.948Z - info: [sitespeed] Wrote results to /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/daydreaming.ru
+2016-01-19T08:06:17.950Z - info: [sitespeed] The analyze took 6 minutes (382 seconds)
+2016-01-19T08:06:17.951Z - info: [sitespeed] Finished with site http://daydreaming.ru/,http://daydreaming.ru/what-s-new,http://daydreaming.ru/manufacturer,http://daydreaming.ru/clothing,http://daydreaming.ru/boy-s,http://daydreaming.ru/newborn,http://daydreaming.ru/books
+2016-01-19T08:06:17.956Z - info: [sitespeed] Will analyze 1 page
+2016-01-19T08:06:17.958Z - info: [sitespeed] Running YSlow for http://happia.ru/ [phantomjs]
+2016-01-19T08:06:43.105Z - info: [sitespeed] Running Google Page Speed Insights for http://happia.ru/
+2016-01-19T08:06:52.894Z - info: [sitespeed] Queueing browsertime for http://happia.ru/ firefox
+2016-01-19T08:06:52.894Z - info: [sitespeed] Running browsertime for firefox http://happia.ru/
+2016-01-19T08:07:12.985Z - info: [sitespeed] Taking screenshot for http://happia.ru/
+2016-01-19T08:07:20.958Z - info: [sitespeed] Done analyzing urls
+2016-01-19T08:07:21.390Z - info: [sitespeed] Wrote file assets.html
+2016-01-19T08:07:21.391Z - info: [sitespeed] Wrote file domains.html
+2016-01-19T08:07:21.391Z - info: [sitespeed] Wrote file errors.html
+2016-01-19T08:07:21.391Z - info: [sitespeed] Wrote file hotlist.html
+2016-01-19T08:07:21.391Z - info: [sitespeed] Wrote file pages.html
+2016-01-19T08:07:21.391Z - info: [sitespeed] Wrote file rules.html
+2016-01-19T08:07:21.392Z - info: [sitespeed] Wrote file screenshots.html
+2016-01-19T08:07:21.392Z - info: [sitespeed] Wrote file index.html
+2016-01-19T08:07:21.392Z - info: [sitespeed] Wrote file detailed-site-summary.html
+2016-01-19T08:07:21.392Z - info: [sitespeed] Wrote file happia_ru.html
+2016-01-19T08:07:21.395Z - info: [sitespeed] Wrote file happia_ru-0.html
+2016-01-19T08:07:21.410Z - info: [sitespeed] Wrote results to /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/happia.ru
+2016-01-19T08:07:21.411Z - info: [sitespeed] The analyze took a minute (63 seconds)
+2016-01-19T08:07:21.412Z - info: [sitespeed] Finished with site http://happia.ru/
+2016-01-19T08:07:21.416Z - info: [sitespeed] Will analyze 4 pages
+2016-01-19T08:07:21.417Z - info: [sitespeed] Running YSlow for http://www.elc-russia.ru [phantomjs]
+2016-01-19T08:07:21.425Z - info: [sitespeed] Running YSlow for http://www.elc-russia.ru/lets-pretend-together.html [phantomjs]
+2016-01-19T08:07:21.448Z - info: [sitespeed] Running YSlow for http://www.elc-russia.ru/lets-pretend-together/houses-and-castles.html [phantomjs]
+2016-01-19T08:07:21.495Z - info: [sitespeed] Running YSlow for http://www.elc-russia.ru/igrovaja-ploschadka-serija-rozovyj-kukol-nyj-dom-1.html [phantomjs]
+2016-01-19T08:08:27.085Z - info: [sitespeed] Running Google Page Speed Insights for http://www.elc-russia.ru
+2016-01-19T08:08:27.087Z - info: [sitespeed] Running Google Page Speed Insights for http://www.elc-russia.ru/lets-pretend-together.html
+2016-01-19T08:08:27.088Z - info: [sitespeed] Running Google Page Speed Insights for http://www.elc-russia.ru/lets-pretend-together/houses-and-castles.html
+2016-01-19T08:08:27.088Z - info: [sitespeed] Running Google Page Speed Insights for http://www.elc-russia.ru/igrovaja-ploschadka-serija-rozovyj-kukol-nyj-dom-1.html
+2016-01-19T08:08:40.791Z - info: [sitespeed] Queueing browsertime for http://www.elc-russia.ru firefox
+2016-01-19T08:08:40.791Z - info: [sitespeed] Queueing browsertime for http://www.elc-russia.ru/lets-pretend-together.html firefox
+2016-01-19T08:08:40.792Z - info: [sitespeed] Queueing browsertime for http://www.elc-russia.ru/lets-pretend-together/houses-and-castles.html firefox
+2016-01-19T08:08:40.792Z - info: [sitespeed] Queueing browsertime for http://www.elc-russia.ru/igrovaja-ploschadka-serija-rozovyj-kukol-nyj-dom-1.html firefox
+2016-01-19T08:08:40.792Z - info: [sitespeed] Running browsertime for firefox http://www.elc-russia.ru
+2016-01-19T08:09:01.903Z - info: [sitespeed] Running browsertime for firefox http://www.elc-russia.ru/lets-pretend-together.html
+2016-01-19T08:09:15.621Z - info: [sitespeed] Running browsertime for firefox http://www.elc-russia.ru/lets-pretend-together/houses-and-castles.html
+2016-01-19T08:09:29.057Z - info: [sitespeed] Running browsertime for firefox http://www.elc-russia.ru/igrovaja-ploschadka-serija-rozovyj-kukol-nyj-dom-1.html
+2016-01-19T08:09:43.323Z - info: [sitespeed] Taking screenshot for http://www.elc-russia.ru
+2016-01-19T08:09:43.329Z - info: [sitespeed] Taking screenshot for http://www.elc-russia.ru/lets-pretend-together.html
+2016-01-19T08:09:43.345Z - info: [sitespeed] Taking screenshot for http://www.elc-russia.ru/lets-pretend-together/houses-and-castles.html
+2016-01-19T08:09:43.364Z - info: [sitespeed] Taking screenshot for http://www.elc-russia.ru/igrovaja-ploschadka-serija-rozovyj-kukol-nyj-dom-1.html
+2016-01-19T08:09:56.473Z - info: [sitespeed] Done analyzing urls
+2016-01-19T08:09:56.945Z - info: [sitespeed] Wrote file assets.html
+2016-01-19T08:09:56.945Z - info: [sitespeed] Wrote file domains.html
+2016-01-19T08:09:56.945Z - info: [sitespeed] Wrote file errors.html
+2016-01-19T08:09:56.945Z - info: [sitespeed] Wrote file hotlist.html
+2016-01-19T08:09:56.946Z - info: [sitespeed] Wrote file pages.html
+2016-01-19T08:09:56.946Z - info: [sitespeed] Wrote file rules.html
+2016-01-19T08:09:56.946Z - info: [sitespeed] Wrote file screenshots.html
+2016-01-19T08:09:56.946Z - info: [sitespeed] Wrote file index.html
+2016-01-19T08:09:56.946Z - info: [sitespeed] Wrote file detailed-site-summary.html
+2016-01-19T08:09:56.946Z - info: [sitespeed] Wrote file www_elc-russia_ru-lets-pretend-together.html.html
+2016-01-19T08:09:56.950Z - info: [sitespeed] Wrote file www_elc-russia_ru.html
+2016-01-19T08:09:56.950Z - info: [sitespeed] Wrote file www_elc-russia_ru-lets-pretend-together-houses-and-castles.html.html
+2016-01-19T08:09:56.951Z - info: [sitespeed] Wrote file www_elc-russia_ru-igrovaja-ploschadka-serija-rozovyj-kukol-nyj-dom-1.html.html
+2016-01-19T08:09:56.951Z - info: [sitespeed] Wrote file www_elc-russia_ru-lets-pretend-together.html-0.html
+2016-01-19T08:09:56.963Z - info: [sitespeed] Wrote file www_elc-russia_ru-0.html
+2016-01-19T08:09:56.963Z - info: [sitespeed] Wrote file www_elc-russia_ru-lets-pretend-together-houses-and-castles.html-0.html
+2016-01-19T08:09:56.963Z - info: [sitespeed] Wrote file www_elc-russia_ru-igrovaja-ploschadka-serija-rozovyj-kukol-nyj-dom-1.html-0.html
+2016-01-19T08:09:56.975Z - info: [sitespeed] Wrote results to /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/www.elc-russia.ru
+2016-01-19T08:09:56.975Z - info: [sitespeed] The analyze took 3 minutes (155 seconds)
+2016-01-19T08:09:56.975Z - info: [sitespeed] Finished with site http://www.elc-russia.ru,http://www.elc-russia.ru/lets-pretend-together.html,http://www.elc-russia.ru/lets-pretend-together/houses-and-castles.html,http://www.elc-russia.ru/igrovaja-ploschadka-serija-rozovyj-kukol-nyj-dom-1.html
+2016-01-19T08:09:56.980Z - info: [sitespeed] Will analyze 1 page
+2016-01-19T08:09:56.980Z - info: [sitespeed] Running YSlow for http://visagehall.ru/ [phantomjs]
+2016-01-19T08:10:52.126Z - info: [sitespeed] Running Google Page Speed Insights for http://visagehall.ru/
+2016-01-19T08:11:03.137Z - info: [sitespeed] Queueing browsertime for http://visagehall.ru/ firefox
+2016-01-19T08:11:03.137Z - info: [sitespeed] Running browsertime for firefox http://visagehall.ru/
+2016-01-19T08:11:31.902Z - info: [sitespeed] Taking screenshot for http://visagehall.ru/
+2016-01-19T08:11:38.452Z - info: [sitespeed] Done analyzing urls
+2016-01-19T08:11:38.891Z - info: [sitespeed] Wrote file assets.html
+2016-01-19T08:11:38.892Z - info: [sitespeed] Wrote file domains.html
+2016-01-19T08:11:38.892Z - info: [sitespeed] Wrote file errors.html
+2016-01-19T08:11:38.892Z - info: [sitespeed] Wrote file hotlist.html
+2016-01-19T08:11:38.892Z - info: [sitespeed] Wrote file pages.html
+2016-01-19T08:11:38.892Z - info: [sitespeed] Wrote file rules.html
+2016-01-19T08:11:38.893Z - info: [sitespeed] Wrote file screenshots.html
+2016-01-19T08:11:38.893Z - info: [sitespeed] Wrote file index.html
+2016-01-19T08:11:38.893Z - info: [sitespeed] Wrote file detailed-site-summary.html
+2016-01-19T08:11:38.893Z - info: [sitespeed] Wrote file visagehall_ru.html
+2016-01-19T08:11:38.899Z - info: [sitespeed] Wrote file visagehall_ru-0.html
+2016-01-19T08:11:38.914Z - info: [sitespeed] Wrote results to /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/visagehall.ru
+2016-01-19T08:11:38.915Z - info: [sitespeed] The analyze took 2 minutes (101 seconds)
+2016-01-19T08:11:38.915Z - info: [sitespeed] Finished with site http://visagehall.ru/
+2016-01-19T08:11:38.916Z - info: [sitespeed] The full site analyze took 13 minutes (804 seconds)
+2016-01-19T08:11:38.960Z - info: [sitespeed] Wrote file sites.html
+2016-01-19T08:11:38.975Z - info: [sitespeed] Wrote sites result to /home/travis/build/mygento/sitespeed/sitespeed-result/sites/out/visagehall.ru
