@@ -1,5 +1,6 @@
 http://www.mygento.ru/
-http://www.mygento.ru/portfolio
-http://www.mygento.ru/modules
-http://www.mygento.ru/services
-http://www.mygento.ru/contact-information
+http://www.mygento.ru/portfolio/
+http://www.mygento.ru/modules/
+http://www.mygento.ru/tech/platform/
+http://www.mygento.ru/your-request
+http://www.mygento.ru/contacts
